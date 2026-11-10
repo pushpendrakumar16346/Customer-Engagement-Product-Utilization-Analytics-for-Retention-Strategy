@@ -1,0 +1,14 @@
+KPI,Value,Unit
+Total Customers,10000.0,Customers
+Exited Customers,2037.0,Customers
+Retained Customers,7963.0,Customers
+Customer Churn Rate,20.369999999999997,%
+Customer Retention Rate,79.63,%
+Active Member Churn Rate,14.269073966220153,%
+Inactive Member Churn Rate,26.850897092183956,%
+Engagement Retention Ratio (ERR),1.1720024255365056,Ratio
+Product Diversity Index (PDI),1.5302,Average products
+High-Balance Dormancy Rate (HBDR),49.88,%
+Cardholder Retention,79.81573352232459,%
+Non-Cardholder Retention,79.18505942275043,%
+Cardholder Churn Spread (CCS),0.6306740995741649,Percentage points
