@@ -1,0 +1,35 @@
+FINANCIAL AND PREMIUM CUSTOMER RISK FINDINGS
+=================================================================
+Total customers analyzed: 10,000
+Average balance: 76,485.89
+Median balance: 97,198.54
+Average estimated salary: 100,090.24
+Median estimated salary: 100,193.91
+High-balance threshold: 139,512.29
+High-balance customers: 1,596
+Inactive high-balance customers: 784
+Active high-balance customers: 812
+Exited high-balance customers: 367
+High-Balance Disengagement Rate: 49.12%
+High-balance churn rate: 22.99%
+Overall churn rate: 20.37%
+Inactive retained high-balance customers: 544
+Largest high-balance geography: France
+Largest high-balance age group: 36-45
+
+RETENTION ATTENTION RECOMMENDATIONS
+-----------------------------------------------------------------
+1. Review inactive retained high-balance customers for targeted engagement.
+2. Review inactive single-product high-balance customers for suitable product education and cross-sell opportunities.
+3. Monitor active high-balance customers to maintain their existing engagement.
+4. Analyze exited high-balance customers separately to understand historical attrition.
+5. Compare geography and age-group patterns before designing targeted retention campaigns.
+
+ANALYTICAL LIMITATIONS
+-----------------------------------------------------------------
+1. Balance is a financial-value proxy, not actual profitability or customer lifetime value.
+2. IsActiveMember is an activity indicator, not a direct measure of login or transaction frequency.
+3. The high-balance threshold is a relative 75th-percentile cutoff among positive balances.
+4. Exited customers represent historical churn, not predicted future churn.
+5. Segment rankings are rule-based priorities, not validated predictive scores.
+6. Transaction history, profitability, revenue and acquisition costs are not available in this dataset.

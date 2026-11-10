@@ -1,0 +1,28 @@
+PRODUCT ADOPTION ANALYTICS FINDINGS
+========================================
+Total customers analyzed: 10000
+Average products per customer: 1.530
+Product Depth Index: 1.530
+
+PRODUCT COUNT RETENTION
+1 product(s): 5084 customers, 27.71% churn, 72.29% retention
+2 product(s): 4590 customers, 7.58% churn, 92.42% retention
+3 product(s): 266 customers, 82.71% churn, 17.29% retention
+4 product(s): 60 customers, 100.00% churn, 0.00% retention
+
+CREDIT CARD OWNERSHIP
+Cardholder retention: 79.82%
+Non-cardholder retention: 79.19%
+Credit Card Stickiness Score: 0.63 percentage points
+
+CROSS-SELL OPPORTUNITY
+Retained single-product customers: 3675
+Active retained single-product customers: 2078
+
+INTERPRETATION LIMITATIONS
+Product count measures the number of products held, not actual product usage.
+Credit card ownership does not establish card transaction frequency.
+Cross-sell segments are descriptive opportunities, not guaranteed purchase prospects.
+Observed associations do not establish causation.
+Product count with highest observed churn rate: 4 (100.00%)
+Single-product customers have a higher observed churn rate than multi-product customers.

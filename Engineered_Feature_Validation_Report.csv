@@ -1,0 +1,13 @@
+Feature,Data Type,Missing Values,Unique Values
+age_group,category,0,4
+tenure_group,category,0,3
+balance_category,object,0,4
+product_count_category,object,0,3
+activity_status,object,0,2
+customer_status,object,0,2
+high_balance_flag,int32,0,2
+inactive_high_balance_flag,int32,0,2
+product_relationship,object,0,2
+premium_customer_candidate,int32,0,2
+relationship_strength_index,float64,0,4
+relationship_strength_category,category,0,4

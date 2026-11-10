@@ -1,0 +1,5 @@
+﻿analysis,group_variable,test_used,sample_size,chi_square_statistic,degrees_of_freedom,p_value,cramers_v,minimum_expected_frequency,expected_frequency_below_5,odds_ratio,significance_level,statistically_significant,interpretation
+Activity Status and Churn,activity_group,Chi-square Test,10000,243.7603925023214,1,5.953852540364172e-55,0.1561282781889051,987.7413,False,,0.05,True,Statistically significant association detected.
+Product Count and Churn,numofproducts,Chi-square Test,10000,1503.6293615070408,3,0.0,0.38776660009689345,12.222,False,,0.05,True,Statistically significant association detected.
+Balance Group and Churn,balance_group,Chi-square Test,10000,8.067399567951874,1,0.004506875037546825,0.028403168076733754,325.1052,False,,0.05,True,Statistically significant association detected.
+Relationship Strength Tier and Churn,relationship_strength_category,Chi-square Test,10000,622.8619248382568,3,1.114507680732987e-134,0.24957201863154788,474.2136,False,,0.05,True,Statistically significant association detected.

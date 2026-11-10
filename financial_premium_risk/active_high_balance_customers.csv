@@ -1,0 +1,813 @@
+customerid,geography,age,age_group,balance,estimatedsalary,numofproducts,isactivemember,activity_status,exited,customer_status,high_balance_flag,premium_risk_segment
+15792365,France,44,36-45,142051.07,74940.5,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15643966,Germany,45,36-45,143129.41,64327.26,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15728693,Germany,43,36-45,141349.43,100187.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15788448,Spain,31,26-35,145260.23,114066.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15684171,Spain,61,56-65,155931.11,158338.39,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15789484,Germany,36,36-45,169831.46,27758.36,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15638424,Germany,35,26-35,150725.53,113656.85,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15812518,Spain,37,36-45,163607.18,44203.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15779052,Germany,25,18-25,157780.84,58426.81,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15699461,Spain,35,26-35,176273.95,121277.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15609618,Germany,28,26-35,154475.54,101300.94,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15584518,Germany,50,46-55,144895.05,34941.23,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15594815,France,35,26-35,174790.15,600.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15604482,Spain,30,26-35,141040.01,5978.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15796505,Germany,34,26-35,149297.19,186339.74,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15800116,Germany,28,26-35,145605.44,93883.53,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15708608,France,22,18-25,174185.98,192633.85,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15727556,Spain,26,26-35,166297.89,181694.44,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15650068,France,58,56-65,149117.31,162599.51,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15631868,Spain,36,36-45,153804.44,87213.33,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15810834,Spain,57,56-65,145965.33,64448.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15678910,France,30,26-35,141441.75,16278.97,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15669064,Germany,35,26-35,144848.74,179012.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15740476,Germany,32,26-35,150923.74,174652.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15747358,Germany,59,56-65,170331.37,32171.79,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15625461,France,45,36-45,187841.99,147224.27,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15696674,Germany,45,36-45,150842.93,2319.96,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15611579,Spain,42,36-45,141947.67,10598.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15685226,Germany,29,26-35,147199.07,84932.4,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15785611,Germany,38,36-45,183102.29,71557.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15701376,Germany,37,36-45,152958.29,159585.61,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15801559,Germany,41,36-45,181461.48,187929.43,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15695585,Spain,34,26-35,156478.62,181196.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15637954,France,35,26-35,155470.55,53718.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15807709,Germany,55,46-55,180075.22,100127.71,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15699005,France,41,36-45,156067.05,9983.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15667896,France,37,36-45,151226.18,136129.49,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15775318,Spain,51,46-55,154962.99,191932.27,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15800440,Spain,61,56-65,152968.73,82970.69,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15665678,Spain,36,36-45,158261.68,76744.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15788291,Germany,38,36-45,144606.22,56594.36,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15603925,Spain,26,26-35,174318.13,38296.21,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15714939,Germany,34,26-35,148249.54,33738.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15609286,France,37,36-45,150525.8,94728.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15660271,Germany,26,26-35,146133.39,175296.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15603134,Spain,40,36-45,167878.5,151887.16,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15636444,Germany,53,46-55,141616.55,75888.65,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15773456,Germany,36,36-45,145747.67,89566.74,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15626900,France,29,26-35,141325.56,93839.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15724282,Germany,44,36-45,164113.04,12120.79,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15588350,France,43,36-45,147832.15,24234.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15751710,Spain,31,26-35,164870.81,9567.39,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15813741,Spain,25,18-25,193858.2,21600.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15662397,France,42,36-45,176099.13,8404.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15736534,Germany,33,26-35,181656.51,107667.91,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15721658,Spain,56,56-65,209767.31,150694.42,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15672692,France,42,36-45,145988.65,79510.37,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15812750,France,24,18-25,147360.0,25310.82,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15794278,Spain,67,Above 65,151858.98,72814.31,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15716835,France,24,18-25,156325.38,125381.02,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15672056,Germany,43,36-45,140080.32,157908.19,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15694366,Germany,42,36-45,177640.09,47166.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15653253,Spain,48,46-55,167997.6,173498.45,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15570134,France,35,26-35,187530.66,37976.36,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15708917,Germany,53,46-55,167772.96,136886.86,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15660602,Germany,33,26-35,164284.72,3710.34,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15797964,Germany,29,26-35,154333.82,138527.56,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15677610,Germany,41,36-45,153895.65,39087.42,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15760550,Spain,39,36-45,143637.58,174227.66,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15686137,Spain,32,26-35,147506.25,135399.21,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15794549,France,35,26-35,163943.89,15068.18,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15581229,Germany,32,26-35,173340.83,122763.95,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15600462,France,43,36-45,145618.37,10350.74,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15709737,France,36,36-45,161064.64,84294.82,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15814275,France,33,26-35,174912.72,43932.54,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15783659,France,67,Above 65,145981.87,131043.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15660429,Spain,42,36-45,156371.61,156774.94,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15589805,France,34,26-35,139810.34,152417.79,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15664521,Spain,31,26-35,149620.88,104533.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15659557,Germany,28,26-35,167738.82,9903.42,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15765014,France,48,46-55,179380.74,69263.1,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15780870,Spain,67,Above 65,153946.14,7418.92,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15762937,Germany,32,26-35,140348.56,163254.39,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15633650,Germany,41,36-45,146720.98,4195.84,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15768201,France,39,36-45,148586.64,176791.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15592229,France,52,46-55,185891.54,46369.57,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15596800,Germany,33,26-35,158456.76,197000.92,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15645316,Germany,58,56-65,149641.53,115161.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15647301,Germany,45,36-45,143734.01,96404.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15716134,France,40,36-45,190008.32,107047.92,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15694821,Germany,43,36-45,148962.76,173878.87,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15589754,Germany,45,36-45,151421.44,115333.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15750776,France,36,36-45,164850.54,62722.44,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15755638,France,43,36-45,168069.73,146992.24,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15791279,France,40,36-45,169742.64,153537.55,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15686909,Germany,27,26-35,150795.81,85208.93,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15696900,Germany,29,26-35,145541.56,58019.95,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15684865,France,66,Above 65,143773.07,130827.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15760774,France,21,18-25,146329.57,194867.27,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15593331,Germany,25,18-25,146580.69,14633.35,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15702789,Germany,32,26-35,175214.71,155165.61,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15747591,Spain,40,36-45,173432.55,116766.79,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15683195,France,32,26-35,146605.27,77119.45,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15609510,France,45,36-45,149364.58,173454.07,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15658532,Spain,63,56-65,162278.32,34765.33,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15795166,Germany,42,36-45,153572.31,76679.6,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15750497,France,37,36-45,153147.75,152235.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15765537,Germany,26,26-35,142721.52,153605.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15729975,France,46,46-55,167795.6,44390.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15688007,Spain,20,18-25,165260.98,41626.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15575417,Germany,37,36-45,143452.74,17294.12,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15796721,France,38,36-45,145018.49,126702.41,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15612108,France,52,46-55,164978.01,67788.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15769005,France,49,46-55,154344.49,38794.57,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15722364,France,43,36-45,189026.53,56099.86,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15696637,France,23,18-25,151097.28,17163.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15620507,Germany,30,26-35,156771.68,141148.21,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15685150,Germany,28,26-35,167658.33,111138.25,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15589221,Germany,30,26-35,139762.13,23317.88,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15680855,France,33,26-35,145731.83,109219.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15700223,France,48,46-55,164701.68,21439.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15598782,Germany,30,26-35,154221.37,62688.55,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15617705,France,39,36-45,141675.23,175664.25,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15801548,France,31,26-35,144162.3,14490.79,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15568360,Spain,41,36-45,139840.36,163524.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15597131,France,32,26-35,145807.59,3064.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15589660,Germany,32,26-35,145980.23,56636.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15769818,France,37,36-45,212778.2,69372.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15782736,Germany,47,46-55,152522.47,164038.07,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15614818,Spain,33,26-35,168964.77,118982.51,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15747677,Spain,69,Above 65,163975.09,36108.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15673908,Germany,42,36-45,158414.85,131886.46,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15779481,France,34,26-35,158741.43,126192.54,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15709994,France,40,36-45,140596.95,135459.02,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15758035,France,61,56-65,155973.13,147554.26,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15593470,Germany,36,36-45,166287.85,23305.85,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15695129,France,31,26-35,152663.77,17128.64,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15770309,France,18,18-25,151762.74,127014.32,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15657386,Germany,43,36-45,141749.74,90905.26,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15685372,Spain,54,46-55,152677.48,191973.49,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15723053,Germany,32,26-35,170291.22,15658.99,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15675501,France,59,56-65,153861.1,17699.48,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15612771,France,35,26-35,148172.44,4175.68,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15744983,Spain,47,46-55,139887.01,95719.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15808846,Germany,21,18-25,165878.76,164537.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15670702,France,37,36-45,168178.21,101273.23,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15704763,Germany,39,36-45,143903.11,118711.75,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15815660,France,34,26-35,154139.45,60728.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15633260,France,37,36-45,142663.46,88669.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15607691,France,36,36-45,174060.46,94925.62,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15777922,Spain,36,36-45,161757.87,146371.72,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15605263,France,33,26-35,140931.57,10921.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15800517,Spain,32,26-35,163340.12,74415.2,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15712319,Spain,45,36-45,150900.29,139889.15,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15573893,Germany,25,18-25,173459.45,44381.06,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15740104,Spain,22,18-25,169649.73,136365.0,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15583718,Germany,38,36-45,142316.14,8018.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15685844,Germany,35,26-35,141665.63,192776.64,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15633640,France,52,46-55,161209.66,89081.41,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15786852,Germany,38,36-45,158651.29,179445.28,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15566958,Spain,39,36-45,167557.12,41183.02,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15716324,France,23,18-25,143672.9,115147.33,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15649418,France,29,26-35,178171.04,115818.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15600734,Spain,51,46-55,174397.21,172372.63,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15674922,France,54,46-55,171137.62,167023.95,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15570859,Germany,36,36-45,181671.16,57531.14,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15748381,France,29,26-35,185709.28,77242.19,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15624781,France,34,26-35,142151.75,168753.34,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15567399,Germany,43,36-45,144164.29,158646.46,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15727384,Germany,43,36-45,146547.78,10072.55,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15612050,Spain,48,46-55,168522.37,151310.16,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15633612,France,28,26-35,172646.82,116471.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15666043,France,33,26-35,156297.58,166102.61,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15634262,Germany,34,26-35,148375.19,21521.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15756875,Spain,34,26-35,147422.44,42143.61,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15595831,Germany,64,56-65,145215.43,164083.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15626684,France,38,36-45,167539.97,159207.34,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15615020,Germany,41,36-45,150463.11,81548.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15757408,Spain,38,36-45,250898.09,81054.0,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15806132,France,55,46-55,146798.81,74149.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15689168,Spain,37,36-45,143407.29,84402.46,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15634949,Germany,74,Above 65,161434.36,65532.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15641835,France,72,Above 65,140997.26,52876.41,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15794479,Spain,77,Above 65,149083.7,190146.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15747174,Germany,58,56-65,190298.89,191263.76,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15704746,Spain,35,26-35,167455.66,55324.49,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15799211,Spain,32,26-35,187487.63,120115.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15798310,France,35,26-35,165692.91,197984.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15808784,France,28,26-35,163569.61,154559.28,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15604782,Germany,33,26-35,187257.94,190430.81,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15585533,France,36,36-45,147733.64,172501.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15630551,France,33,26-35,163139.27,7035.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15614034,Germany,61,56-65,164523.5,35786.76,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15680141,Spain,35,26-35,147936.42,106785.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15569222,France,32,26-35,147107.91,40066.95,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15624388,Germany,50,46-55,155393.32,87351.42,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15681446,Germany,37,36-45,157098.52,153535.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15748116,France,29,26-35,148143.84,52021.39,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15765902,Germany,38,36-45,163034.82,135662.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15726791,Spain,45,36-45,157929.45,145134.49,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15665438,France,43,36-45,163159.85,15602.8,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15635776,Germany,43,36-45,154846.24,151903.6,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15574842,Germany,25,18-25,158266.42,199357.24,3,1,Active,0,Retained,1,Monitor - Active High Balance
+15630167,Spain,39,36-45,139723.9,120612.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15704442,France,53,46-55,169406.33,147311.47,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15630617,Germany,36,36-45,140418.81,113033.73,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15720838,Spain,31,26-35,139799.63,120663.57,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15623196,France,38,36-45,149238.97,97825.23,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15659501,France,38,36-45,142263.45,33730.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15690231,Spain,62,56-65,167026.61,192892.05,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15739068,Germany,25,18-25,148045.45,114722.42,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15654106,France,26,26-35,149542.52,197911.52,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15752300,Germany,47,46-55,148826.32,79450.61,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15646566,France,58,56-65,187911.55,35825.18,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15672144,France,38,36-45,144432.04,73963.17,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15614878,Germany,29,26-35,180520.29,123850.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15790846,Germany,38,36-45,148430.55,56055.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15668818,Spain,40,36-45,200322.45,113244.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15583049,Germany,34,26-35,160426.07,188533.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15602735,Germany,45,36-45,152296.83,108040.86,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15787026,Germany,27,26-35,185267.45,77027.34,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15681196,France,35,26-35,172170.36,159777.37,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15599301,Germany,28,26-35,164365.44,5698.97,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15586870,France,27,26-35,193125.85,152665.85,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15604544,Germany,40,36-45,166082.15,44406.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15756241,France,44,36-45,152509.25,136915.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15591577,France,35,26-35,146311.58,105443.47,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15739046,Spain,23,18-25,143054.85,62980.96,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15595071,France,22,18-25,149777.0,198032.93,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15701318,Spain,67,Above 65,148564.66,87236.4,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15787699,Germany,34,26-35,142393.11,11276.48,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15669957,Germany,52,46-55,144696.75,49025.79,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15765806,France,29,26-35,144591.96,196293.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15573280,Germany,50,46-55,145295.31,27814.74,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15747265,Germany,27,26-35,171283.91,84136.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15770719,France,39,36-45,151553.19,44946.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15731327,Germany,27,26-35,166527.88,146007.7,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15667938,France,32,26-35,149136.31,16402.11,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15576360,France,40,36-45,141136.79,67803.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15648489,France,53,46-55,199689.49,24207.86,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15597033,Germany,37,36-45,153366.13,26912.34,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15585284,Spain,35,26-35,147285.52,57807.05,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15668575,Spain,26,26-35,148610.41,104502.02,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15603246,France,73,Above 65,170241.7,165407.96,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15694829,Germany,32,26-35,175454.0,77349.92,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15727696,France,42,36-45,147249.29,63023.02,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15744919,Spain,37,36-45,152760.24,48990.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15671655,Germany,31,26-35,143966.3,140262.96,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15605000,France,38,36-45,140278.99,171457.06,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15668385,France,40,36-45,154863.15,138052.51,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15706185,Germany,47,46-55,140187.1,174311.3,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15697997,France,33,26-35,164704.38,180716.1,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15638963,France,22,18-25,174852.89,28149.06,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15584114,Germany,43,36-45,153393.18,193828.27,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15715160,France,36,36-45,165536.28,123956.83,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15666675,France,39,36-45,155062.8,16460.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15753874,France,37,36-45,143835.47,33326.71,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15795298,Germany,35,26-35,206868.78,102986.15,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15750056,France,29,26-35,149218.39,9633.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15759684,France,27,26-35,176227.07,139481.53,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15638646,France,43,36-45,160474.59,95963.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15631070,Germany,55,46-55,154393.43,137674.96,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15649668,Germany,36,36-45,145750.45,96660.76,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15720745,Spain,24,18-25,140197.18,142935.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15652400,Spain,56,56-65,168883.08,18897.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15622585,France,26,26-35,153644.39,63197.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15594762,Spain,46,46-55,183276.32,13460.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15742204,Germany,31,26-35,139729.54,135815.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15716781,France,24,18-25,171922.72,178028.96,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15646936,Germany,32,26-35,146810.99,180990.29,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15715622,France,57,56-65,238387.56,147964.99,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15630113,Spain,35,26-35,161637.75,20008.46,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15628767,Spain,63,56-65,139529.93,175696.16,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15643294,France,33,26-35,190566.65,79997.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15715745,France,26,26-35,157624.84,49599.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15780925,France,37,36-45,177069.24,96088.54,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15712303,France,66,Above 65,159732.02,118188.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15662063,France,36,36-45,142400.77,193438.69,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15784130,Germany,30,26-35,154870.28,54191.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15814465,France,24,18-25,182705.05,171837.06,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15694253,France,41,36-45,152105.57,132374.41,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15674727,France,42,36-45,147531.82,38819.45,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15614687,Germany,44,36-45,148770.61,191057.76,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15748034,France,29,26-35,174851.9,79178.31,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15776827,Germany,37,36-45,141547.26,180326.83,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15629094,France,36,36-45,156948.41,149912.28,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15734246,France,21,18-25,166883.07,194563.65,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15770159,Germany,25,18-25,172812.72,108008.65,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15596710,France,33,26-35,167298.42,145381.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15745355,France,41,36-45,153198.23,92090.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15664668,France,42,36-45,144801.97,12483.39,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15794137,Germany,37,36-45,151218.98,109309.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15748696,France,42,36-45,150507.21,169964.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15593897,Spain,25,18-25,160599.06,28391.52,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15654959,Spain,67,Above 65,158719.57,118607.4,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15760244,France,76,Above 65,160979.68,13848.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15577700,France,37,36-45,185063.7,134526.87,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15768451,Germany,40,36-45,149131.03,60036.99,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15758362,France,41,36-45,152243.57,88783.59,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15703541,Germany,51,46-55,143930.92,46675.51,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15768367,France,27,26-35,186558.55,175071.29,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15713374,Germany,67,Above 65,157094.78,99490.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15810385,Spain,36,36-45,164557.95,82336.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15643361,Germany,34,26-35,139959.55,189875.83,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15697127,France,31,26-35,147674.26,16658.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15658486,Spain,59,56-65,148021.12,74878.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15698117,Germany,41,36-45,150844.94,127623.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15790267,France,40,36-45,141267.67,177397.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15604792,Germany,38,36-45,140752.06,171430.16,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15697597,France,26,26-35,149144.61,123697.95,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15590344,Germany,32,26-35,151691.44,172810.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15805025,France,45,36-45,139859.23,108402.54,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15605036,Spain,37,36-45,155619.58,135088.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15720941,Germany,34,26-35,147833.3,1561.58,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15566633,Germany,55,46-55,155059.1,144584.29,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15726487,France,63,56-65,160982.89,168008.17,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15669326,France,44,36-45,168396.34,14178.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15774133,France,35,26-35,178032.53,42181.68,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15763798,France,23,18-25,140007.19,31714.08,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15616811,France,47,46-55,160729.1,145986.35,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15726484,France,37,36-45,141546.35,124830.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15650442,Germany,32,26-35,141528.88,167087.34,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15779414,Spain,40,36-45,153639.11,138351.68,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15737071,France,60,56-65,162039.78,84361.72,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15626141,France,26,26-35,151510.17,19921.72,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15789753,France,40,36-45,148790.61,79329.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15592091,Spain,31,26-35,166833.86,135171.6,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15718280,Germany,39,36-45,139822.11,146219.9,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15580134,Spain,27,26-35,172463.45,40315.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15567328,Spain,38,36-45,177997.07,19233.41,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15741865,France,38,36-45,153166.17,93261.69,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15635097,Germany,39,36-45,188976.89,176142.09,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15720509,France,34,26-35,150856.79,8236.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15693322,Germany,37,36-45,146748.07,11407.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15693337,Spain,41,36-45,148863.17,163911.32,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15772148,Germany,37,36-45,151242.48,49637.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15762048,Germany,33,26-35,154969.79,99505.75,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15790596,Spain,39,36-45,141829.67,92748.16,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15729018,France,33,26-35,147229.65,56410.17,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15712409,Germany,66,Above 65,182532.23,195429.92,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15662532,Germany,31,26-35,149085.9,197077.36,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15722350,Germany,37,36-45,147361.57,133031.96,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15611371,France,43,36-45,176134.54,52856.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15702175,France,29,26-35,148654.84,28805.09,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15621227,Germany,46,46-55,161806.09,173052.19,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15574213,France,53,46-55,158271.74,5036.39,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15813504,Germany,25,18-25,146566.01,161407.48,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15621064,Germany,23,18-25,186101.18,76611.33,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15671804,Spain,36,36-45,146943.38,130041.45,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15810454,France,32,26-35,147307.91,40861.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15609319,France,41,36-45,145754.91,101455.07,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15740527,Germany,62,56-65,142724.48,5893.23,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15694404,France,42,36-45,156555.54,175674.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15675380,Spain,56,56-65,154669.77,115462.27,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15702499,Spain,46,46-55,190678.02,14725.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15581811,Germany,30,26-35,139676.95,16146.0,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15675854,Spain,50,46-55,159304.07,155915.24,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15714391,France,35,26-35,183572.84,66006.75,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15766166,Spain,43,36-45,145081.72,23881.62,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15781598,Germany,41,36-45,149049.92,50422.36,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15691871,Germany,42,36-45,153279.39,151336.96,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15697270,Spain,27,26-35,153325.1,199953.33,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15774630,Germany,47,46-55,142802.02,57553.02,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15724099,France,26,26-35,166257.96,149369.41,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15621205,France,34,26-35,175111.11,74858.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15642824,Spain,56,56-65,174506.1,161802.82,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15726832,Germany,61,56-65,141784.02,92053.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15593900,France,38,36-45,189443.72,106648.58,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15624995,Spain,31,26-35,152926.6,50899.91,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15570087,France,44,36-45,142989.69,115452.51,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15607275,Spain,39,36-45,206014.94,42774.84,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15761775,Germany,20,18-25,180293.84,29552.7,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15710553,Germany,48,46-55,142055.41,79134.78,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15758136,France,37,36-45,141803.77,179421.84,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15761024,France,33,26-35,167733.51,65222.48,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15785815,Germany,31,26-35,142631.54,175894.24,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15780770,France,31,26-35,145056.59,175893.53,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15689492,Germany,41,36-45,176958.46,125806.3,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15646490,Spain,42,36-45,190569.23,127154.8,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15574352,France,43,36-45,161256.53,140071.57,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15788556,France,42,36-45,148283.94,44692.63,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15759067,Germany,37,36-45,158411.95,117690.58,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15696564,France,38,36-45,145974.79,137694.23,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15752885,France,42,36-45,157498.9,82276.62,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15606310,France,71,Above 65,149105.08,162683.06,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15713346,France,24,18-25,146126.75,88992.05,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15642997,France,36,36-45,147149.59,87816.86,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15807167,France,42,36-45,146766.72,164357.1,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15660301,Germany,70,Above 65,148745.92,17818.33,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15721921,France,44,36-45,165326.2,57205.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15781272,France,50,46-55,149713.61,124872.42,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15593280,Germany,43,36-45,140733.74,166588.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15696852,France,32,26-35,192122.84,54277.45,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15634936,France,41,36-45,179904.0,137180.95,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15575935,France,59,56-65,178058.06,21063.71,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15634491,France,30,26-35,176166.56,152210.81,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15739931,France,34,26-35,161588.89,51358.66,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15646784,France,31,26-35,164003.05,60993.23,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15784361,Spain,46,46-55,140355.6,85086.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15729515,France,36,36-45,148795.17,195681.43,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15744942,Spain,55,46-55,155828.22,108987.25,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15585580,Germany,52,46-55,167194.36,62808.93,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15792916,Spain,40,36-45,144470.77,18917.95,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15777599,Germany,34,26-35,141806.0,183494.87,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15690958,Germany,23,18-25,139542.82,28038.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15682322,France,37,36-45,148466.93,151280.96,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15684921,Spain,25,18-25,142862.21,130639.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15666856,France,49,46-55,142767.39,8214.41,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15787255,Germany,55,46-55,140891.46,179834.45,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15726250,France,38,36-45,166328.65,22614.19,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15631721,Germany,38,36-45,163965.69,103511.26,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15614716,France,37,36-45,196853.62,132770.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15651103,Spain,69,Above 65,183744.98,196993.69,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15579559,Spain,30,26-35,145241.63,80676.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15799720,Spain,43,36-45,161546.68,178187.28,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15621611,Germany,55,46-55,155196.17,121207.66,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15671104,Spain,43,36-45,172196.23,104769.96,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15624695,Spain,72,Above 65,140301.72,179258.67,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15791925,France,29,26-35,147737.63,94951.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15702566,Spain,26,26-35,149134.46,177966.24,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15628600,Germany,31,26-35,141069.18,194257.11,3,1,Active,0,Retained,1,Monitor - Active High Balance
+15614635,France,52,46-55,151457.88,40893.61,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15731281,Germany,35,26-35,154206.07,40261.49,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15607230,Germany,33,26-35,150186.22,65611.01,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15799815,Germany,23,18-25,163549.63,21085.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15575510,France,32,26-35,155584.21,153662.88,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15734058,Germany,32,26-35,170661.47,21646.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15636700,France,39,36-45,140236.98,146651.99,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15569264,France,32,26-35,179305.09,149043.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15595158,Germany,31,26-35,150593.59,105218.45,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15589431,Germany,47,46-55,171937.27,65636.92,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15795738,France,31,26-35,175477.15,172832.9,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15602500,Spain,38,36-45,146343.98,103902.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15672437,France,72,Above 65,160541.0,142223.94,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15663883,Germany,32,26-35,141827.33,149458.73,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15668853,Spain,44,36-45,157622.58,120454.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15691011,France,42,36-45,161651.37,131753.97,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15592707,Germany,64,56-65,175754.87,60721.4,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15651075,Germany,35,26-35,142296.13,177112.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15583462,France,28,26-35,171069.39,88689.4,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15581237,Spain,33,26-35,160777.9,149536.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15596863,Germany,38,36-45,158373.23,28228.35,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15748608,Germany,42,36-45,141927.1,43018.98,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15606397,Germany,44,36-45,152086.15,44719.5,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15639278,Germany,36,36-45,145387.32,169963.2,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15649414,France,61,56-65,142105.35,45214.04,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15774382,Germany,49,46-55,169377.31,123535.05,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15664897,France,35,26-35,181166.44,63737.19,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15777784,France,44,36-45,168165.84,197193.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15705663,Germany,39,36-45,144550.83,189664.43,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15636541,Germany,35,26-35,144961.97,26796.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15594270,France,38,36-45,198338.77,14278.18,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15699446,Germany,25,18-25,150355.35,35770.84,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15596713,France,37,36-45,165896.22,66977.68,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15730272,France,58,56-65,152199.33,86022.09,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15663234,France,60,56-65,143262.04,129562.74,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15782758,France,40,36-45,147650.68,199674.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15600174,France,35,26-35,165358.77,94738.54,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15573171,Spain,63,56-65,146202.93,126688.83,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15691840,Germany,37,36-45,159863.9,125307.87,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15590683,France,31,26-35,172325.67,45438.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15698703,Germany,40,36-45,181768.32,129107.97,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15628824,France,37,36-45,160389.82,183542.08,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15800746,France,45,36-45,144889.18,102591.9,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15751131,Spain,41,36-45,150302.84,156036.19,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15601417,France,32,26-35,148884.47,90967.37,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15791851,France,34,26-35,185734.75,102036.82,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15717156,France,30,26-35,143396.54,898.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15729083,France,36,36-45,154525.7,27468.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15810878,Spain,38,36-45,141786.78,147797.54,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15607786,France,26,26-35,156551.63,4410.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15772996,Germany,40,36-45,152092.44,83508.93,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15625740,Germany,62,56-65,143426.34,143104.3,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15567991,Spain,31,26-35,144880.34,175643.44,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15641004,Spain,48,46-55,150315.92,133486.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15677317,France,29,26-35,153040.03,131363.57,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15749300,France,47,46-55,139914.27,50390.98,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15672798,France,45,36-45,145933.27,199392.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15741719,France,40,36-45,165298.12,199862.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15571193,Germany,42,36-45,144386.32,22497.1,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15644132,France,30,26-35,142475.87,107848.24,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15691823,France,37,36-45,153195.59,162763.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15582591,Spain,59,56-65,155766.05,110275.17,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15799494,Germany,44,36-45,140393.65,186285.52,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15673439,Spain,50,46-55,142644.64,142208.5,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15685872,France,29,26-35,146652.01,173486.39,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15606435,Germany,69,Above 65,187013.13,105898.69,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15678173,Spain,35,26-35,174588.8,158420.14,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15735025,Spain,37,36-45,175534.78,9241.52,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15628963,Germany,43,36-45,141859.12,111249.62,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15741652,Spain,37,36-45,177657.35,77142.32,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15611644,France,73,Above 65,146329.73,43615.67,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15773071,Spain,33,26-35,145580.61,154598.56,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15619537,France,31,26-35,142200.19,122221.71,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15598162,Germany,39,36-45,160761.41,24156.03,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15627995,Germany,26,26-35,155143.52,135034.57,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15608109,Germany,58,56-65,170113.0,10494.64,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15567431,France,64,56-65,145578.28,186172.85,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15644501,France,26,26-35,162482.76,18458.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15759741,Germany,34,26-35,150635.3,72274.84,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15754526,Germany,36,36-45,147137.74,33687.9,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15613923,Spain,43,36-45,170172.9,100236.02,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15800412,Germany,35,26-35,146780.52,3476.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15597610,Spain,41,36-45,144974.55,19344.92,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15589437,France,26,26-35,156815.71,137476.09,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15682369,France,47,46-55,146034.74,77146.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15771442,France,40,36-45,150578.0,34670.62,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15620756,France,49,46-55,202904.64,17298.72,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15576935,Spain,43,36-45,161807.18,93228.86,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15661198,Germany,34,26-35,146407.11,72073.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15754820,Germany,35,26-35,147127.81,84760.7,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15738501,Germany,48,46-55,163630.76,41816.49,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15804211,France,36,36-45,155423.17,199841.32,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15595037,France,47,46-55,152347.01,17671.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15574369,Spain,53,46-55,167259.44,22357.25,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15725094,France,37,36-45,140211.88,93832.33,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15772559,France,47,46-55,148636.21,16119.96,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15614834,Spain,31,26-35,141751.82,61531.86,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15722583,Spain,29,26-35,157576.47,101102.39,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15763683,Germany,32,26-35,139626.01,118235.52,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15628292,France,32,26-35,156001.68,151677.31,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15711352,France,31,26-35,162701.65,126794.56,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15587978,Germany,37,36-45,170057.62,54398.56,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15720636,France,50,46-55,143054.56,109608.81,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15810898,France,65,56-65,151659.52,6930.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15795246,Germany,51,46-55,155903.82,71159.84,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15743293,Germany,35,26-35,163700.78,29583.48,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15700946,France,34,26-35,152992.91,134691.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15590078,Spain,27,26-35,139834.93,152733.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15604093,France,34,26-35,165363.31,25744.13,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15785831,France,35,26-35,183027.25,56028.79,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15709523,Germany,30,26-35,157989.21,100687.67,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15776725,Germany,54,46-55,172192.49,136902.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15690332,Germany,35,26-35,192407.97,40145.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15808905,France,37,36-45,164858.18,173516.71,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15598744,Germany,71,Above 65,140273.47,193135.25,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15613180,Germany,21,18-25,153344.72,163295.87,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15596339,France,54,46-55,140014.42,86350.97,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15615938,France,64,56-65,139663.37,100995.11,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15761886,France,36,36-45,172381.8,86480.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15815615,France,36,36-45,141952.07,185144.08,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15666559,Germany,23,18-25,197715.93,116124.28,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15766185,Germany,31,26-35,146587.3,89874.82,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15737169,Spain,26,26-35,144238.7,184399.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15632472,Spain,32,26-35,159397.75,57323.18,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15736717,France,31,26-35,155271.83,179446.31,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15710316,Spain,48,46-55,144837.79,93151.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15641285,Spain,50,46-55,163085.79,131048.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15814267,France,22,18-25,154377.3,51721.52,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15651389,Spain,24,18-25,143656.55,180932.46,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15782875,France,33,26-35,157274.36,28531.81,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15588933,France,36,36-45,146053.66,138344.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15586674,Spain,58,56-65,216109.88,74176.71,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15628697,Spain,46,46-55,160736.63,93503.02,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15618816,Germany,40,36-45,147171.2,69850.04,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15568449,Spain,38,36-45,143006.7,15650.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15688085,Spain,28,26-35,157597.61,34097.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15624975,Spain,28,26-35,145118.83,77742.38,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15776096,Spain,34,26-35,161572.24,191076.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15708265,Spain,24,18-25,159203.71,102517.83,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15625035,France,50,46-55,160139.59,79314.1,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15809309,Spain,40,36-45,154251.67,118319.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15765732,Spain,24,18-25,149592.14,153771.8,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15664506,Spain,32,26-35,197436.82,52710.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15636592,France,35,26-35,181821.96,36923.67,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15784180,France,36,36-45,206329.65,46632.87,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15808849,France,40,36-45,145536.9,135334.24,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15588235,France,24,18-25,145081.73,130075.07,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15599084,France,33,26-35,191523.09,167058.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15803750,Spain,33,26-35,161801.47,153288.97,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15598838,France,37,36-45,151105.68,140934.57,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15579109,Germany,35,26-35,163856.76,15118.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15767729,Spain,25,18-25,182876.88,42537.59,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15699839,France,36,36-45,152606.82,71692.8,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15694530,France,28,26-35,167268.98,169469.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15631685,Germany,60,56-65,163894.35,57061.71,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15671769,France,71,Above 65,170252.05,73679.59,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15706762,France,41,36-45,145809.53,52319.26,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15608595,France,39,36-45,157371.54,97734.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15682576,France,67,Above 65,149436.73,106282.74,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15615832,Spain,35,26-35,155621.08,35177.31,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15664793,Spain,50,46-55,146777.44,150685.52,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15783859,France,24,18-25,161884.99,9617.24,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15728523,France,41,36-45,144147.68,14789.9,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15788442,Spain,57,56-65,173306.13,131964.66,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15762799,Germany,23,18-25,187861.18,104120.17,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15652658,France,36,36-45,155176.83,49653.37,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15729771,Germany,31,26-35,154586.92,88604.89,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15607986,France,40,36-45,139930.18,105720.09,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15648681,France,47,46-55,139914.6,129964.56,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15571081,France,41,36-45,190238.93,57549.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15587266,Germany,27,26-35,172310.33,111448.92,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15706268,Germany,51,46-55,147910.3,53581.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15637891,Germany,43,36-45,140681.68,20134.07,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15627190,France,51,46-55,146606.6,68021.9,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15702149,Germany,33,26-35,144753.21,132480.75,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15618703,Spain,53,46-55,150200.23,151317.27,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15762045,Germany,37,36-45,142688.57,110953.33,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15796111,Germany,54,46-55,145151.4,125311.17,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15670646,Spain,42,36-45,147187.84,14868.94,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15736420,France,21,18-25,210433.08,197297.77,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15570947,Spain,29,26-35,143330.56,126396.01,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15593178,Spain,36,36-45,153610.61,54083.8,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15757188,Spain,26,26-35,153455.72,82696.84,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15716347,Germany,37,36-45,143625.83,176487.05,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15765093,France,23,18-25,166594.78,155823.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15573077,Germany,25,18-25,141825.88,73857.94,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15664083,Germany,37,36-45,158468.76,93266.01,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15704315,France,34,26-35,163757.06,104000.06,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15742297,France,35,26-35,141005.47,60407.93,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15604536,Germany,31,26-35,164672.66,61936.1,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15765487,Germany,38,36-45,151766.71,180829.99,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15761047,Germany,31,26-35,160997.54,64831.36,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15740411,Germany,30,26-35,141787.31,109685.61,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15804235,France,37,36-45,166178.02,71972.95,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15679801,Spain,39,36-45,163097.55,23702.42,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15702571,Germany,35,26-35,151958.19,131238.37,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15776545,France,28,26-35,200724.96,82872.64,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15683276,Spain,37,36-45,140363.95,129563.86,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15599272,France,36,36-45,151844.64,135388.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15631267,France,50,46-55,153590.73,130910.78,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15620103,France,40,36-45,167181.01,185156.94,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15711299,Germany,52,46-55,145262.54,131473.31,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15675176,France,51,46-55,144953.31,165035.17,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15567919,Germany,37,36-45,167735.69,104665.79,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15700511,Germany,42,36-45,176702.36,104804.74,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15748691,Spain,30,26-35,154970.54,156768.45,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15611682,Spain,37,36-45,169902.92,128256.18,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15689692,Germany,19,18-25,150348.37,173784.04,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15748986,Germany,42,36-45,166685.92,55313.51,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15604196,France,32,26-35,185714.28,102502.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15741633,Spain,32,26-35,147511.26,159891.03,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15608916,France,40,36-45,147754.68,110454.46,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15633608,France,33,26-35,146193.6,55796.83,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15776494,France,61,56-65,146622.35,41815.22,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15763029,Germany,46,46-55,161450.03,96961.0,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15673591,France,44,36-45,141252.18,128521.16,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15774936,Germany,41,36-45,143350.41,192070.16,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15634501,France,60,56-65,140614.15,174381.23,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15757473,France,27,26-35,158786.67,47579.25,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15715512,Germany,29,26-35,154640.41,164039.51,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15780989,Spain,43,36-45,145843.82,198402.37,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15581286,France,40,36-45,176914.8,12799.23,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15588560,Germany,32,26-35,145330.43,132038.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15627395,Germany,41,36-45,154902.66,49667.28,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15663808,Germany,59,56-65,152614.51,188782.3,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15811343,Germany,35,26-35,161591.11,63795.62,3,1,Active,0,Retained,1,Monitor - Active High Balance
+15659677,France,47,46-55,142382.03,62086.62,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15783338,Spain,32,26-35,155619.36,166692.03,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15764491,Spain,35,26-35,159693.9,71173.64,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15712960,Spain,37,36-45,171653.17,5353.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15809906,Germany,26,26-35,148853.29,24411.02,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15684296,France,34,26-35,141173.03,98896.06,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15583755,Germany,33,26-35,156570.86,37140.2,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15644297,Germany,38,36-45,178787.54,195760.53,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15802483,France,34,26-35,146178.13,88837.11,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15778884,France,38,36-45,154763.21,174800.31,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15713440,Germany,21,18-25,151701.45,170138.68,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15669491,France,46,46-55,157866.77,18986.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15743051,France,30,26-35,144684.03,31805.49,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15663770,France,38,36-45,142557.11,172497.73,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15631217,France,40,36-45,156218.19,33607.72,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15758252,Germany,45,36-45,168085.38,115719.08,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15607269,Germany,49,46-55,151249.45,167237.94,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15803352,Germany,33,26-35,155736.42,57751.21,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15793135,Germany,24,18-25,147687.24,121592.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15800811,France,40,36-45,148556.74,146056.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15576077,France,27,26-35,159561.93,103381.47,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15671165,France,66,Above 65,149950.19,76267.59,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15650266,Germany,39,36-45,146186.28,193974.47,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15791304,Germany,25,18-25,165413.43,35279.74,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15755239,Germany,32,26-35,162657.64,115525.13,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15572174,France,29,26-35,148874.01,71192.82,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15768574,Spain,58,56-65,178713.98,21768.21,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15815645,France,37,36-45,152303.66,175082.2,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15775131,Spain,32,26-35,142188.2,128028.6,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15742879,Spain,38,36-45,147904.31,69370.05,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15719898,France,36,36-45,154872.08,32044.64,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15814772,Germany,49,46-55,160133.88,88391.97,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15712813,Germany,43,36-45,150805.17,25333.03,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15611729,Germany,39,36-45,141559.5,31257.1,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15754747,Germany,33,26-35,141918.09,184036.47,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15658614,Germany,38,36-45,145400.69,83844.79,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15597983,France,69,Above 65,154953.94,70849.47,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15709232,Germany,47,46-55,157099.47,65481.86,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15586752,Germany,33,26-35,152143.89,32174.03,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15605072,France,43,36-45,145860.98,142763.51,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15710053,Germany,44,36-45,140406.68,57164.19,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15799534,France,71,Above 65,183135.39,197688.5,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15791877,Germany,34,26-35,140641.26,77271.91,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15716420,Spain,39,36-45,170288.38,59601.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15811389,Germany,35,26-35,171982.95,167313.07,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15567778,Germany,54,46-55,144027.8,108731.02,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15751084,France,29,26-35,140170.61,38170.04,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15647546,Germany,40,36-45,150679.71,196226.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15715888,France,38,36-45,142289.28,119638.85,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15813660,Spain,40,36-45,160625.17,3554.63,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15770631,Spain,25,18-25,167385.81,56307.51,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15599329,France,49,46-55,195238.29,131083.56,4,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15778418,Germany,40,36-45,154309.67,125334.16,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15690589,France,37,36-45,212314.03,148814.54,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15750837,Germany,41,36-45,141749.68,9201.53,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15656592,Germany,48,46-55,169023.33,175657.55,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15780498,France,34,26-35,145030.92,41820.65,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15727819,Spain,34,26-35,171671.9,50777.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15578671,Spain,29,26-35,209490.21,133267.69,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15647890,France,37,36-45,149405.18,146411.6,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15606115,France,52,46-55,191665.21,131312.56,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15598940,Germany,38,36-45,181804.34,57517.71,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15760568,Germany,38,36-45,142658.04,135337.11,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15774328,Germany,40,36-45,144757.97,166656.18,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15653773,France,38,36-45,164496.99,163327.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15789560,France,42,36-45,187534.79,32900.41,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15788723,Germany,49,46-55,143888.22,166236.38,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15790489,Spain,34,26-35,170600.78,5240.53,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15781914,Germany,32,26-35,169947.41,27979.16,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15637354,France,24,18-25,148167.83,109470.34,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15804962,France,36,36-45,155655.46,192387.51,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15752312,Spain,49,46-55,150777.72,135757.27,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15616745,Spain,35,26-35,174894.53,22314.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15674110,France,43,36-45,160416.56,37266.43,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15592925,Spain,42,36-45,177626.77,16392.72,3,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15787825,Germany,37,36-45,152496.82,99907.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15607874,France,38,36-45,144450.58,137276.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15811032,Germany,58,56-65,145984.92,24564.7,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15786433,Germany,35,26-35,165982.43,24482.16,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15607990,Spain,43,36-45,175735.5,157337.29,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15776936,France,40,36-45,160818.08,169642.13,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15729087,Germany,54,46-55,156367.6,116179.92,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15712199,Germany,61,56-65,183997.7,161217.18,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15772337,Germany,49,46-55,153855.52,180862.26,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15603378,France,36,36-45,141334.95,125870.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15802560,Spain,48,46-55,140576.11,116971.05,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15777459,Spain,32,26-35,175406.13,172792.43,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15713559,Germany,32,26-35,146602.25,72946.95,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15576065,Spain,40,36-45,171325.98,159718.27,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15790599,Germany,39,36-45,149363.12,109098.39,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15679551,Spain,46,46-55,163764.84,165122.55,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15669946,Germany,46,46-55,141726.88,58257.23,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15652615,France,39,36-45,140004.96,92985.78,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15715078,France,35,26-35,161613.94,148238.16,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15670266,France,28,26-35,141792.61,22001.91,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15620750,France,28,26-35,141099.43,15607.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15795747,Spain,39,36-45,171646.76,100791.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15800805,France,31,26-35,140931.82,20388.77,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15688689,Germany,37,36-45,149000.91,21472.42,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15649618,Germany,39,36-45,167395.6,139537.43,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15580912,France,32,26-35,154737.88,172638.13,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15712903,France,21,18-25,176511.08,153920.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15705544,France,61,56-65,157201.48,50368.63,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15677764,Germany,74,Above 65,186445.31,196767.83,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15680405,France,40,36-45,168001.34,167400.29,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15645371,Germany,51,46-55,147262.11,53630.9,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15778489,Germany,71,Above 65,142550.25,122506.78,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15659305,Germany,19,18-25,166133.28,107994.99,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15691543,Germany,58,56-65,142537.18,88791.83,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15722845,Spain,29,26-35,182781.74,63732.9,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15758048,France,50,46-55,148942.0,116944.3,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15693926,Spain,37,36-45,178742.71,194493.57,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15641773,Germany,45,36-45,179334.83,169303.65,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15632538,Spain,32,26-35,145553.07,31484.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15577913,France,32,26-35,144581.96,87609.5,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15598948,Spain,24,18-25,172231.93,155144.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15574142,Germany,28,26-35,171932.26,9578.24,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15692226,France,31,26-35,142905.51,58134.97,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15769402,France,27,26-35,156811.74,149402.59,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15579345,Germany,74,Above 65,161371.5,134869.93,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15605130,France,32,26-35,177729.13,161642.08,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15701932,France,52,46-55,140900.97,67288.89,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15634146,Germany,18,18-25,142872.36,117632.63,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15735849,France,26,26-35,165947.99,168834.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15738042,Germany,37,36-45,140894.06,118059.19,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15714920,Germany,44,36-45,163867.86,112333.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15757310,Germany,67,Above 65,148363.38,186995.17,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15761706,Spain,39,36-45,144102.32,11682.36,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15687363,France,31,26-35,155047.56,186064.34,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15613048,Germany,40,36-45,139973.65,667.66,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15803654,France,31,26-35,151290.16,172437.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15730579,France,68,Above 65,169445.4,186335.07,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15791674,France,34,26-35,142388.61,68393.64,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15797149,Spain,36,36-45,143680.47,63531.19,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15654222,Spain,30,26-35,145396.49,198341.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15644103,Spain,78,Above 65,151675.65,49978.67,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15782550,Germany,41,36-45,139659.04,176254.12,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15705174,Germany,68,Above 65,153545.11,186574.68,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15804009,Germany,36,36-45,167983.17,106714.28,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15650424,France,48,46-55,147341.43,157458.61,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15609521,Germany,34,26-35,142929.16,114869.56,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15787168,Spain,28,26-35,168253.21,102799.14,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15578878,Spain,30,26-35,139528.23,33230.37,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15596136,France,36,36-45,166939.88,72504.76,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15704597,France,33,26-35,174571.36,43943.09,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15593283,Germany,48,46-55,156848.13,99475.95,2,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15809124,France,38,36-45,151532.4,46555.15,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15588456,France,40,36-45,143566.12,189607.71,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15797502,Spain,24,18-25,141078.57,24402.87,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15716431,France,30,26-35,191091.74,96170.38,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15646310,Spain,24,18-25,143582.89,22527.27,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15796370,Spain,40,36-45,155455.43,113581.85,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15802909,Germany,56,56-65,139603.22,86383.61,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15776518,France,38,36-45,175739.36,193130.55,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15770516,Spain,44,36-45,193213.02,137392.77,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15673020,France,49,46-55,204510.94,738.88,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15605672,France,38,36-45,195926.39,85522.84,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15713604,Germany,40,36-45,166776.6,172646.88,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15603454,Germany,28,26-35,160454.15,114957.22,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15703923,Germany,41,36-45,190409.34,138361.48,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15735078,Germany,53,46-55,139687.66,12913.92,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15739850,France,45,36-45,155417.61,3449.22,1,1,Active,0,Retained,1,Monitor - Active High Balance
+15672754,Germany,42,36-45,152039.7,53445.17,1,1,Active,1,Exited,1,Historical Churn - Exited High Balance
+15581736,Germany,47,46-55,183579.54,34047.54,2,1,Active,0,Retained,1,Monitor - Active High Balance
+15588839,Spain,30,26-35,180307.73,1914.41,2,1,Active,0,Retained,1,Monitor - Active High Balance

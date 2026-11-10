@@ -1,0 +1,32 @@
+STATISTICAL VALIDATION AND BUSINESS INSIGHTS
+======================================================================
+
+STATISTICAL METHODOLOGY
+Significance level: 0.05
+Categorical associations: Chi-square or Fisher's exact test
+Association strength: Cramer's V
+Continuous balance comparison: Mann-Whitney U test
+Churn confidence intervals: 95% Wilson intervals
+
+FINDINGS
+----------------------------------------------------------------------
+- Activity Status and Churn: statistically significant association detected (p=0.000000, Cramer's V=0.1561).
+- Product Count and Churn: statistically significant association detected (p=0.000000, Cramer's V=0.3878).
+- Balance Group and Churn: statistically significant association detected (p=0.004507, Cramer's V=0.0284).
+- Relationship Strength Tier and Churn: statistically significant association detected (p=0.000000, Cramer's V=0.2496).
+- Observed active-customer churn rate: 14.27%; inactive-customer churn rate: 26.85%. The difference is 12.58 percentage points (inactive minus active).
+- High-balance threshold used: 139512.29 (75th percentile of positive balances), when defined.
+- Balance distributions were compared using the Mann-Whitney U test, which does not require normally distributed balance values.
+- The RSI analysis evaluates association between a proposed score tier and observed churn. It does not establish that changing RSI will cause a change in retention.
+- The analysis is based on observational customer data. Statistical associations must not be interpreted as causal effects.
+- The dataset represents a single-year customer snapshot. It does not provide a time-based future churn outcome or customer transaction history.
+- Logistic regression status: Successfully completed.
+
+BUSINESS INTERPRETATION LIMITATIONS
+----------------------------------------------------------------------
+1. Statistical association does not establish causation.
+2. P-values should be interpreted alongside effect sizes.
+3. Small groups may have unstable rates and confidence intervals.
+4. Multiple statistical tests increase the possibility of false positives.
+5. The logistic regression model is explanatory and not a validated future-churn prediction system.
+6. The dataset does not include transaction-level engagement or longitudinal customer behaviour.

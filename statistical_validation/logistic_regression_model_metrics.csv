@@ -1,0 +1,2 @@
+﻿model,training_customers,testing_customers,features_used,accuracy,balanced_accuracy,precision,recall,f1_score,roc_auc,average_precision,class_weight,interpretation
+Logistic Regression,7500,2500,"creditscore, geography, gender, age, tenure, balance, numofproducts, hascrcard, isactivemember, estimatedsalary",0.72,0.7203802178565826,0.39675675675675676,0.7210216110019646,0.5118549511854951,0.7872104233293435,0.4826107422392991,balanced,Explanatory baseline using a random stratified holdout; not a validated future-churn prediction model.

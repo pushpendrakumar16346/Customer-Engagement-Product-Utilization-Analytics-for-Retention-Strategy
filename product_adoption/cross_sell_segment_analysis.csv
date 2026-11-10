@@ -1,0 +1,25 @@
+geography,activity_status,agegroup,customer_count,average_age
+France,Active,30-44,659,36.30045523520486
+France,Inactive,30-44,619,36.16478190630048
+Spain,Active,30-44,340,36.747058823529414
+Spain,Inactive,30-44,270,36.53333333333333
+Germany,Active,30-44,241,35.95020746887967
+Germany,Inactive,30-44,241,36.45228215767635
+France,Active,Under 30,181,25.92817679558011
+France,Inactive,Under 30,178,26.123595505617978
+France,Active,45-59,136,50.88235294117647
+Spain,Active,Under 30,97,25.350515463917525
+Spain,Active,45-59,94,51.11702127659574
+France,Active,60+,92,67.71739130434783
+Germany,Active,Under 30,91,25.714285714285715
+France,Inactive,45-59,83,47.95180722891566
+Germany,Inactive,Under 30,69,25.82608695652174
+Germany,Active,45-59,62,51.16129032258065
+Spain,Inactive,Under 30,57,25.68421052631579
+Spain,Active,60+,53,67.32075471698113
+Spain,Inactive,45-59,41,47.48780487804878
+Germany,Active,60+,32,68.625
+Germany,Inactive,45-59,30,48.56666666666667
+Germany,Inactive,60+,5,73.2
+Spain,Inactive,60+,2,67.0
+France,Inactive,60+,2,70.5

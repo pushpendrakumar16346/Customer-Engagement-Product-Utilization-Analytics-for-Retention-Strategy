@@ -1,0 +1,7 @@
+Column,Minimum Allowed,Maximum Allowed,Observed Minimum,Observed Maximum,Invalid Range Values
+CreditScore,0,,350.0,850.0,0
+Age,18,120.0,18.0,92.0,0
+Tenure,0,,0.0,10.0,0
+Balance,0,,0.0,250898.09,0
+NumOfProducts,1,,1.0,4.0,0
+EstimatedSalary,0,,11.58,199992.48,0

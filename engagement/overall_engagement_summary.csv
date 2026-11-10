@@ -1,0 +1,14 @@
+Metric,Value
+Total Customers,10000.0
+Active Customers,5151.0
+Inactive Customers,4849.0
+Active Customer Share (%),51.51
+Inactive Customer Share (%),48.49
+Active Customer Churn Count,735.0
+Inactive Customer Churn Count,1302.0
+Active Customer Churn Rate (%),14.269073966220153
+Inactive Customer Churn Rate (%),26.850897092183956
+Active Customer Retention Rate (%),85.73092603377985
+Inactive Customer Retention Rate (%),73.14910290781604
+Engagement Retention Difference (Percentage Points),12.581823125963808
+Engagement Retention Ratio,1.1720024255365056

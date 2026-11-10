@@ -1,0 +1,9 @@
+Column,Original Data Type,Invalid Numeric Values,Minimum Value,Maximum Value
+CustomerId,int64,0,15565701.0,15815690.0
+CreditScore,int64,0,350.0,850.0
+Age,int64,0,18.0,92.0
+Tenure,int64,0,0.0,10.0
+Balance,float64,0,0.0,250898.09
+NumOfProducts,int64,0,1.0,4.0
+EstimatedSalary,float64,0,11.58,199992.48
+Year,int64,0,2025.0,2025.0

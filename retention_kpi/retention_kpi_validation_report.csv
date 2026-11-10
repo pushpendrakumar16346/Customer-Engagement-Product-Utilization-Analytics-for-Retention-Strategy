@@ -1,0 +1,13 @@
+﻿validation_check,status,details
+Total customer reconciliation,PASSED,10000 = 7963 + 2037
+Customer ID uniqueness,PASSED,Every customer ID is unique.
+Churn and retention complement,PASSED,Combined rate: 100.0000%
+Engagement customer reconciliation,PASSED,Active and inactive customer counts reconcile with total customers.
+Product customer reconciliation,PASSED,Product count groups reconcile with total customers.
+Credit card customer reconciliation,PASSED,Cardholder and non-cardholder counts reconcile with total customers.
+High-balance customer reconciliation,PASSED,High-balance customer count matches the filtered dataset.
+High-balance disengagement rate bounds,PASSED,"High-balance disengagement rate is between 0% and 100%, when defined."
+Relationship Strength Index range,PASSED,All RSI scores are between 0 and 100.
+Relationship tier assignment,PASSED,Every customer has an assigned relationship strength tier.
+RSI tier customer reconciliation,PASSED,Relationship tier counts reconcile with total customers.
+RSI tier churn and retention reconciliation,PASSED,Retained and exited customers across RSI tiers reconcile.

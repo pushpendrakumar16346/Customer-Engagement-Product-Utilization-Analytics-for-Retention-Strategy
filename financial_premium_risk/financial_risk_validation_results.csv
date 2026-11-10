@@ -1,0 +1,8 @@
+Validation,Result,Details
+Total customer reconciliation,True,"1,596 high-balance + 8,404 other"
+High-balance activity reconciliation,True,812 active + 784 inactive
+High-balance churn reconciliation,True,"367 exited + 1,229 retained"
+High-balance threshold validity,True,"Threshold = 139,512.29"
+Customer ID uniqueness,True,Customer IDs must be unique
+Customer-level export reconciliation,True,"10,000 exported / 10,000 total"
+HBDR percentage validity,True,HBDR = 49.12%

@@ -1,0 +1,3 @@
+customer_status,Customer_Count,Average_Age,Average_Credit_Score,Average_Tenure,Average_Balance,Average_Products,Average_Salary,Active_Customer_Percentage,High_Balance_Percentage,Premium_Candidate_Percentage,Average_RSI
+Exited,2037,44.84,645.35,4.93,91108.54,1.48,101465.68,36.08,18.02,5.2,47.82
+Retained,7963,37.41,651.85,5.03,72745.3,1.54,99738.39,55.46,15.43,5.61,64.04

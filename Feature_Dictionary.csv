@@ -1,0 +1,13 @@
+Feature,Description,Business Rule
+age_group,Customer age segment,"Under 30, 30-44, 45-59, 60+"
+tenure_group,Customer relationship duration segment,"0-2, 3-5, 6-10 years"
+balance_category,Customer balance segment,Zero balance; positive balances divided using median and 75th percentile
+product_count_category,Number of products held by customer,"1, 2, 3 or more products"
+activity_status,Customer activity label,Active if IsActiveMember = 1; otherwise Inactive
+customer_status,Customer retention status,Exited if Exited = 1; otherwise Retained
+high_balance_flag,Identifies customers with high positive balances,1 if positive balance is at or above the 75th percentile of positive balances
+inactive_high_balance_flag,Identifies inactive customers with high balances,1 if high_balance_flag = 1 and IsActiveMember = 0
+product_relationship,Single-product or multi-product relationship,Single Product if product count = 1; otherwise Multi Product
+premium_customer_candidate,Potential premium customer screening indicator,1 if high_balance_flag = 1 and product count >= 2
+relationship_strength_index,Proposed relationship strength score,"60 x activity score + 40 x min(product count, 2) / 2"
+relationship_strength_category,Relationship strength segment,0-24 Very Weak; 25-49 Weak; 50-74 Moderate; 75-89 Strong; 90-100 Very Strong

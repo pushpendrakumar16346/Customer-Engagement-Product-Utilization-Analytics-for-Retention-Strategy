@@ -1,0 +1,2 @@
+﻿analysis,test_used,retained_sample_size,exited_sample_size,retained_median_balance,exited_median_balance,u_statistic,p_value,statistically_significant
+Balance Distribution: Retained versus Exited,Mann-Whitney U Test,7963,2037,92072.68,109349.29,6849444.5,1.1158399379149222e-28,True

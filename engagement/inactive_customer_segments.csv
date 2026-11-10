@@ -1,0 +1,308 @@
+geography,agegroup,tenuregroup,balancecategory,productcountcategory,inactive_customer_count,churned_customers,average_balance,average_age,average_products,churn_rate_pct
+France,30-44,6-10 Years,Zero Balance,Two Products,257,9,0.0,36.33463035019455,2.0,3.501945525291829
+France,30-44,3-5 Years,Zero Balance,Two Products,165,8,0.0,36.64848484848485,2.0,4.848484848484849
+France,30-44,6-10 Years,Low Balance,Single Product,136,14,94874.27507352941,36.154411764705884,1.0,10.294117647058822
+France,30-44,0-2 Years,Zero Balance,Two Products,135,7,0.0,36.34814814814815,2.0,5.185185185185185
+Spain,30-44,6-10 Years,Zero Balance,Two Products,131,4,0.0,36.83206106870229,2.0,3.0534351145038165
+Germany,30-44,6-10 Years,Low Balance,Single Product,94,39,97242.33712765957,36.755319148936174,1.0,41.48936170212766
+Spain,30-44,3-5 Years,Zero Balance,Two Products,84,0,0.0,36.416666666666664,2.0,0.0
+France,30-44,0-2 Years,Low Balance,Single Product,80,7,97095.85525,36.225,1.0,8.75
+France,30-44,6-10 Years,Zero Balance,Single Product,79,26,0.0,37.379746835443036,1.0,32.91139240506329
+France,Under 30,6-10 Years,Zero Balance,Two Products,78,1,0.0,26.05128205128205,2.0,1.282051282051282
+France,30-44,3-5 Years,Low Balance,Single Product,77,14,97939.32363636364,36.15584415584416,1.0,18.181818181818183
+France,30-44,6-10 Years,High Balance,Single Product,76,20,158798.48657894737,37.51315789473684,1.0,26.31578947368421
+Germany,30-44,6-10 Years,Low Balance,Two Products,72,7,96486.48972222222,37.90277777777778,2.0,9.722222222222223
+France,30-44,6-10 Years,Medium Balance,Single Product,71,11,128014.22169014085,36.74647887323944,1.0,15.492957746478872
+Spain,30-44,0-2 Years,Zero Balance,Two Products,63,3,0.0,36.79365079365079,2.0,4.761904761904762
+France,Under 30,3-5 Years,Zero Balance,Two Products,59,0,0.0,26.491525423728813,2.0,0.0
+France,30-44,3-5 Years,Zero Balance,Single Product,58,20,0.0,35.96551724137931,1.0,34.48275862068966
+Spain,30-44,6-10 Years,Low Balance,Single Product,57,13,98282.3054385965,37.80701754385965,1.0,22.807017543859647
+Germany,30-44,3-5 Years,Low Balance,Single Product,56,13,97994.33517857142,37.589285714285715,1.0,23.214285714285715
+France,30-44,3-5 Years,Medium Balance,Single Product,55,7,130285.54963636363,36.527272727272724,1.0,12.727272727272727
+Germany,45-59,6-10 Years,Low Balance,Single Product,49,42,101272.83693877551,49.87755102040816,1.0,85.71428571428571
+Germany,30-44,6-10 Years,Medium Balance,Single Product,49,19,129067.73836734693,36.83673469387755,1.0,38.775510204081634
+Germany,30-44,3-5 Years,Low Balance,Two Products,48,10,95009.64208333334,36.458333333333336,2.0,20.833333333333336
+Spain,Under 30,6-10 Years,Zero Balance,Two Products,48,0,0.0,25.583333333333332,2.0,0.0
+Germany,30-44,6-10 Years,High Balance,Single Product,46,15,153141.62195652173,36.5,1.0,32.608695652173914
+France,30-44,6-10 Years,Low Balance,Two Products,44,6,98174.50068181819,36.47727272727273,2.0,13.636363636363635
+Spain,30-44,6-10 Years,Zero Balance,Single Product,43,19,0.0,36.27906976744186,1.0,44.18604651162791
+Germany,30-44,0-2 Years,Low Balance,Single Product,42,20,103220.72642857142,38.095238095238095,1.0,47.61904761904761
+Germany,30-44,6-10 Years,Medium Balance,Two Products,42,6,129393.24595238095,36.11904761904762,2.0,14.285714285714285
+Germany,30-44,0-2 Years,Low Balance,Two Products,42,3,93579.17642857143,36.833333333333336,2.0,7.142857142857142
+France,45-59,6-10 Years,Zero Balance,Single Product,40,31,0.0,49.9,1.0,77.5
+France,30-44,0-2 Years,High Balance,Single Product,37,12,161366.27405405405,35.891891891891895,1.0,32.432432432432435
+Spain,30-44,3-5 Years,Low Balance,Single Product,37,12,87171.78594594594,38.189189189189186,1.0,32.432432432432435
+France,30-44,3-5 Years,High Balance,Single Product,37,4,155967.45135135137,36.7027027027027,1.0,10.81081081081081
+France,Under 30,0-2 Years,Zero Balance,Two Products,37,1,0.0,25.91891891891892,2.0,2.7027027027027026
+Germany,45-59,3-5 Years,Low Balance,Single Product,34,29,105284.67705882352,50.3235294117647,1.0,85.29411764705883
+Germany,30-44,0-2 Years,Medium Balance,Single Product,34,22,127369.5423529412,37.8235294117647,1.0,64.70588235294117
+Germany,30-44,6-10 Years,High Balance,Two Products,34,2,156498.42705882355,36.294117647058826,2.0,5.88235294117647
+Spain,30-44,0-2 Years,Low Balance,Single Product,32,3,94185.5546875,35.4375,1.0,9.375
+France,45-59,6-10 Years,Low Balance,Single Product,31,13,87588.37322580644,49.29032258064516,1.0,41.935483870967744
+France,45-59,3-5 Years,Zero Balance,Single Product,30,29,0.0,50.7,1.0,96.66666666666667
+Germany,30-44,3-5 Years,Medium Balance,Single Product,30,11,129481.48233333332,37.7,1.0,36.666666666666664
+France,45-59,6-10 Years,Zero Balance,Two Products,30,3,0.0,47.53333333333333,2.0,10.0
+France,30-44,0-2 Years,Zero Balance,Single Product,29,5,0.0,36.93103448275862,1.0,17.24137931034483
+France,45-59,0-2 Years,Zero Balance,Single Product,28,21,0.0,50.035714285714285,1.0,75.0
+Spain,30-44,6-10 Years,High Balance,Single Product,28,5,162805.42178571428,36.642857142857146,1.0,17.857142857142858
+France,30-44,0-2 Years,Medium Balance,Single Product,28,4,129307.60678571428,37.392857142857146,1.0,14.285714285714285
+Spain,30-44,6-10 Years,Medium Balance,Single Product,28,3,128752.2757142857,36.67857142857143,1.0,10.714285714285714
+Germany,45-59,0-2 Years,Low Balance,Single Product,26,23,101721.28692307693,50.15384615384615,1.0,88.46153846153845
+France,45-59,6-10 Years,High Balance,Single Product,26,16,159538.04653846152,50.07692307692308,1.0,61.53846153846154
+Spain,Under 30,3-5 Years,Zero Balance,Two Products,26,1,0.0,26.115384615384617,2.0,3.8461538461538463
+Germany,45-59,6-10 Years,Medium Balance,Single Product,25,21,130198.10519999999,49.16,1.0,84.0
+Spain,30-44,0-2 Years,Zero Balance,Single Product,25,10,0.0,36.6,1.0,40.0
+Spain,30-44,3-5 Years,High Balance,Single Product,25,5,165255.0076,36.48,1.0,20.0
+Spain,30-44,3-5 Years,Zero Balance,Single Product,25,5,0.0,38.16,1.0,20.0
+Spain,30-44,3-5 Years,Medium Balance,Single Product,25,4,128643.1228,35.32,1.0,16.0
+France,30-44,0-2 Years,Low Balance,Two Products,25,3,91013.3592,37.08,2.0,12.0
+France,Under 30,6-10 Years,Low Balance,Single Product,25,1,102176.19279999999,25.6,1.0,4.0
+Germany,Under 30,6-10 Years,Low Balance,Two Products,25,1,91157.0128,24.8,2.0,4.0
+France,30-44,3-5 Years,High Balance,Two Products,24,4,156700.91958333334,37.333333333333336,2.0,16.666666666666664
+France,30-44,3-5 Years,Low Balance,Two Products,24,1,91992.37833333334,37.75,2.0,4.166666666666666
+Germany,45-59,3-5 Years,Medium Balance,Single Product,22,19,128771.60318181818,49.86363636363637,1.0,86.36363636363636
+France,45-59,3-5 Years,Low Balance,Single Product,22,14,87647.97227272727,49.22727272727273,1.0,63.63636363636363
+Spain,45-59,6-10 Years,Low Balance,Single Product,22,13,93985.05590909091,48.13636363636363,1.0,59.09090909090909
+France,Under 30,6-10 Years,High Balance,Single Product,22,3,159980.86045454547,25.863636363636363,1.0,13.636363636363635
+France,30-44,6-10 Years,Medium Balance,Two Products,22,2,130803.10318181818,37.36363636363637,2.0,9.090909090909092
+France,45-59,0-2 Years,Low Balance,Single Product,21,14,94609.24904761904,48.666666666666664,1.0,66.66666666666666
+France,Under 30,3-5 Years,Low Balance,Single Product,21,3,101200.61476190477,25.761904761904763,1.0,14.285714285714285
+France,45-59,0-2 Years,Zero Balance,Two Products,21,2,0.0,47.61904761904762,2.0,9.523809523809524
+Germany,30-44,0-2 Years,Medium Balance,Two Products,20,2,129965.7175,36.25,2.0,10.0
+Germany,30-44,3-5 Years,High Balance,Two Products,20,0,157374.56,37.35,2.0,0.0
+Germany,30-44,0-2 Years,High Balance,Single Product,19,6,150713.79105263157,37.31578947368421,1.0,31.57894736842105
+Spain,30-44,6-10 Years,Low Balance,Two Products,19,6,92389.22157894737,36.31578947368421,2.0,31.57894736842105
+France,30-44,6-10 Years,High Balance,Two Products,19,3,157289.15263157894,35.36842105263158,2.0,15.789473684210526
+Germany,30-44,3-5 Years,High Balance,Single Product,19,3,157874.33157894737,37.68421052631579,1.0,15.789473684210526
+France,Under 30,6-10 Years,Medium Balance,Single Product,19,1,131740.60842105263,25.157894736842106,1.0,5.263157894736842
+Germany,45-59,0-2 Years,Medium Balance,Single Product,18,15,127996.58777777778,51.22222222222222,1.0,83.33333333333334
+France,45-59,6-10 Years,Medium Balance,Single Product,18,9,129739.02333333333,50.888888888888886,1.0,50.0
+France,45-59,3-5 Years,Zero Balance,Two Products,18,3,0.0,47.94444444444444,2.0,16.666666666666664
+France,Under 30,3-5 Years,High Balance,Single Product,18,1,154339.83166666667,26.77777777777778,1.0,5.555555555555555
+Spain,30-44,3-5 Years,Low Balance,Two Products,18,1,96267.25722222222,38.27777777777778,2.0,5.555555555555555
+Germany,45-59,6-10 Years,High Balance,Single Product,17,16,149544.75058823527,48.64705882352941,1.0,94.11764705882352
+Spain,45-59,6-10 Years,Zero Balance,Single Product,17,14,0.0,50.529411764705884,1.0,82.35294117647058
+France,Under 30,6-10 Years,Zero Balance,Single Product,17,4,0.0,27.294117647058822,1.0,23.52941176470588
+Germany,30-44,3-5 Years,Medium Balance,Two Products,17,2,131291.5705882353,36.64705882352941,2.0,11.76470588235294
+Spain,30-44,0-2 Years,Low Balance,Two Products,17,2,98838.14882352941,37.0,2.0,11.76470588235294
+Spain,30-44,0-2 Years,Medium Balance,Single Product,17,1,129375.28941176471,36.529411764705884,1.0,5.88235294117647
+Spain,45-59,3-5 Years,Zero Balance,Two Products,16,5,0.0,48.75,2.0,31.25
+Germany,Under 30,6-10 Years,Low Balance,Single Product,16,4,103006.918125,25.4375,1.0,25.0
+France,30-44,3-5 Years,Medium Balance,Two Products,16,2,129741.15125,35.9375,2.0,12.5
+Germany,45-59,6-10 Years,Low Balance,Two Products,15,11,103883.74533333333,51.13333333333333,2.0,73.33333333333333
+France,Under 30,0-2 Years,High Balance,Single Product,15,2,160275.05,26.6,1.0,13.333333333333334
+France,30-44,0-2 Years,High Balance,Two Products,15,1,159017.10133333332,38.6,2.0,6.666666666666667
+Spain,Under 30,6-10 Years,Low Balance,Single Product,15,1,92217.49399999999,26.333333333333332,1.0,6.666666666666667
+France,30-44,0-2 Years,Medium Balance,Two Products,15,0,130526.09000000001,35.666666666666664,2.0,0.0
+France,Under 30,0-2 Years,Low Balance,Single Product,15,0,103049.086,25.8,1.0,0.0
+Spain,45-59,0-2 Years,Zero Balance,Single Product,14,13,0.0,48.07142857142857,1.0,92.85714285714286
+Germany,45-59,3-5 Years,High Balance,Single Product,14,10,156863.21142857143,52.0,1.0,71.42857142857143
+France,Under 30,3-5 Years,Zero Balance,Single Product,14,2,0.0,26.071428571428573,1.0,14.285714285714285
+Spain,45-59,6-10 Years,Zero Balance,Two Products,14,1,0.0,48.0,2.0,7.142857142857142
+France,Under 30,6-10 Years,Low Balance,Two Products,14,0,94083.57428571429,26.214285714285715,2.0,0.0
+Germany,Under 30,3-5 Years,Low Balance,Single Product,13,4,90536.28692307693,26.846153846153847,1.0,30.76923076923077
+France,Under 30,3-5 Years,Medium Balance,Single Product,13,3,130423.51153846153,25.923076923076923,1.0,23.076923076923077
+Germany,Under 30,3-5 Years,Low Balance,Two Products,13,2,102720.46769230769,25.923076923076923,2.0,15.384615384615385
+France,Under 30,3-5 Years,Low Balance,Two Products,13,1,92854.71769230769,24.923076923076923,2.0,7.6923076923076925
+Spain,45-59,3-5 Years,Low Balance,Single Product,12,7,100906.505,49.333333333333336,1.0,58.333333333333336
+Germany,Under 30,3-5 Years,Medium Balance,Single Product,12,6,128530.6125,25.25,1.0,50.0
+Germany,45-59,3-5 Years,Low Balance,Two Products,12,4,101140.09749999999,48.5,2.0,33.33333333333333
+Spain,Under 30,3-5 Years,Low Balance,Single Product,12,2,101876.5525,26.0,1.0,16.666666666666664
+France,Under 30,0-2 Years,Zero Balance,Single Product,12,0,0.0,26.5,1.0,0.0
+Germany,30-44,0-2 Years,High Balance,Two Products,12,0,167279.6575,37.0,2.0,0.0
+Germany,30-44,3-5 Years,Low Balance,Three or More Products,11,11,95801.7409090909,38.18181818181818,3.272727272727273,100.0
+Spain,45-59,3-5 Years,Zero Balance,Single Product,11,8,0.0,48.72727272727273,1.0,72.72727272727273
+France,45-59,0-2 Years,High Balance,Single Product,11,7,165464.00636363638,49.27272727272727,1.0,63.63636363636363
+Germany,45-59,0-2 Years,Low Balance,Two Products,11,5,107712.09181818181,49.27272727272727,2.0,45.45454545454545
+Germany,Under 30,6-10 Years,Medium Balance,Single Product,11,3,128592.52363636364,26.636363636363637,1.0,27.27272727272727
+Spain,30-44,0-2 Years,High Balance,Single Product,11,3,155207.38727272727,38.54545454545455,1.0,27.27272727272727
+Germany,Under 30,0-2 Years,Low Balance,Two Products,11,2,100986.92000000001,25.272727272727273,2.0,18.181818181818183
+Germany,Under 30,6-10 Years,High Balance,Single Product,11,1,155970.0390909091,27.09090909090909,1.0,9.090909090909092
+Germany,Under 30,6-10 Years,Medium Balance,Two Products,11,1,127935.1190909091,26.727272727272727,2.0,9.090909090909092
+Spain,30-44,6-10 Years,Medium Balance,Two Products,11,1,124279.08454545453,36.54545454545455,2.0,9.090909090909092
+Spain,Under 30,0-2 Years,Zero Balance,Two Products,11,0,0.0,25.90909090909091,2.0,0.0
+France,60+,6-10 Years,Low Balance,Single Product,10,10,89095.848,64.7,1.0,100.0
+France,45-59,3-5 Years,Medium Balance,Single Product,10,4,127604.419,48.1,1.0,40.0
+Spain,45-59,6-10 Years,High Balance,Single Product,10,4,161513.446,48.2,1.0,40.0
+Germany,Under 30,0-2 Years,Low Balance,Single Product,10,3,100228.001,23.7,1.0,30.0
+Spain,30-44,6-10 Years,High Balance,Two Products,10,3,160777.25900000002,37.9,2.0,30.0
+Germany,45-59,6-10 Years,High Balance,Two Products,10,2,152120.5,49.4,2.0,20.0
+Spain,45-59,0-2 Years,Zero Balance,Two Products,10,1,0.0,48.6,2.0,10.0
+Germany,Under 30,6-10 Years,High Balance,Two Products,10,0,152418.351,26.6,2.0,0.0
+Spain,45-59,0-2 Years,High Balance,Single Product,9,7,165405.99,49.55555555555556,1.0,77.77777777777779
+France,45-59,3-5 Years,High Balance,Single Product,9,6,162842.68777777778,49.0,1.0,66.66666666666666
+Germany,Under 30,3-5 Years,High Balance,Single Product,9,2,160198.66444444444,26.88888888888889,1.0,22.22222222222222
+Spain,30-44,0-2 Years,High Balance,Two Products,9,1,162718.59666666668,38.666666666666664,2.0,11.11111111111111
+Spain,30-44,3-5 Years,High Balance,Two Products,9,1,159000.08777777778,37.888888888888886,2.0,11.11111111111111
+Spain,Under 30,6-10 Years,Zero Balance,Single Product,9,1,0.0,24.555555555555557,1.0,11.11111111111111
+Germany,45-59,0-2 Years,High Balance,Single Product,8,8,150393.5,53.75,1.0,100.0
+France,45-59,0-2 Years,Medium Balance,Single Product,8,7,128411.8725,50.75,1.0,87.5
+Germany,45-59,6-10 Years,Medium Balance,Two Products,8,6,128833.475,52.0,2.0,75.0
+France,30-44,3-5 Years,Zero Balance,Three or More Products,8,5,0.0,41.125,3.25,62.5
+Spain,Under 30,6-10 Years,High Balance,Single Product,8,1,160936.2825,24.875,1.0,12.5
+Germany,Under 30,3-5 Years,High Balance,Two Products,8,0,167094.74875,26.75,2.0,0.0
+Spain,Under 30,6-10 Years,Low Balance,Two Products,8,0,89057.17625,26.75,2.0,0.0
+Germany,60+,3-5 Years,Low Balance,Single Product,7,6,106138.18428571429,64.71428571428571,1.0,85.71428571428571
+Spain,45-59,6-10 Years,Low Balance,Two Products,7,4,80612.87142857142,49.57142857142857,2.0,57.14285714285714
+Spain,30-44,3-5 Years,Zero Balance,Three or More Products,7,3,0.0,38.285714285714285,3.0,42.857142857142854
+France,45-59,6-10 Years,Low Balance,Two Products,7,1,107995.9542857143,50.57142857142857,2.0,14.285714285714285
+Germany,Under 30,0-2 Years,Medium Balance,Single Product,7,1,132198.03,24.571428571428573,1.0,14.285714285714285
+Spain,45-59,6-10 Years,Medium Balance,Single Product,7,1,129230.08714285714,48.42857142857143,1.0,14.285714285714285
+Spain,Under 30,6-10 Years,Medium Balance,Two Products,7,1,130292.20142857144,26.142857142857142,2.0,14.285714285714285
+France,Under 30,0-2 Years,Medium Balance,Single Product,7,0,131359.33428571429,26.428571428571427,1.0,0.0
+France,60+,6-10 Years,High Balance,Single Product,6,6,156434.29333333333,62.0,1.0,100.0
+France,30-44,0-2 Years,Zero Balance,Three or More Products,6,5,0.0,38.0,3.1666666666666665,83.33333333333334
+Germany,30-44,0-2 Years,Low Balance,Three or More Products,6,5,104524.29166666667,40.5,3.3333333333333335,83.33333333333334
+Germany,60+,6-10 Years,Low Balance,Single Product,6,4,109438.455,67.83333333333333,1.0,66.66666666666666
+France,45-59,6-10 Years,High Balance,Two Products,6,3,163696.14333333334,50.166666666666664,2.0,50.0
+France,Under 30,3-5 Years,High Balance,Two Products,6,0,151414.87333333332,26.5,2.0,0.0
+Spain,30-44,3-5 Years,Medium Balance,Two Products,6,0,132456.355,35.5,2.0,0.0
+France,30-44,6-10 Years,High Balance,Three or More Products,5,5,164893.412,38.2,3.0,100.0
+France,45-59,6-10 Years,Low Balance,Three or More Products,5,5,98444.86,49.2,3.4,100.0
+France,60+,3-5 Years,Zero Balance,Single Product,5,5,0.0,62.0,1.0,100.0
+Germany,30-44,6-10 Years,High Balance,Three or More Products,5,5,159687.872,38.2,3.0,100.0
+Germany,45-59,0-2 Years,Low Balance,Three or More Products,5,5,107835.532,51.2,3.0,100.0
+Germany,45-59,3-5 Years,Low Balance,Three or More Products,5,5,112215.848,51.4,3.4,100.0
+Germany,45-59,6-10 Years,Medium Balance,Three or More Products,5,5,131331.222,49.2,3.0,100.0
+France,30-44,6-10 Years,Zero Balance,Three or More Products,5,3,0.0,40.2,3.0,60.0
+France,45-59,6-10 Years,Medium Balance,Two Products,5,2,123736.33399999999,50.8,2.0,40.0
+Germany,45-59,3-5 Years,High Balance,Two Products,5,2,146817.544,46.8,2.0,40.0
+Germany,45-59,3-5 Years,Medium Balance,Two Products,5,2,125554.776,50.0,2.0,40.0
+Germany,Under 30,0-2 Years,High Balance,Two Products,5,1,151596.28199999998,27.4,2.0,20.0
+Spain,Under 30,3-5 Years,High Balance,Single Product,5,1,158614.11200000002,25.2,1.0,20.0
+France,Under 30,6-10 Years,High Balance,Two Products,5,0,165477.332,25.2,2.0,0.0
+Spain,Under 30,3-5 Years,Low Balance,Two Products,5,0,94740.93000000001,25.8,2.0,0.0
+France,30-44,3-5 Years,Low Balance,Three or More Products,4,4,102032.93,39.75,3.0,100.0
+France,30-44,6-10 Years,Low Balance,Three or More Products,4,4,101377.9075,38.25,3.0,100.0
+France,45-59,0-2 Years,Low Balance,Three or More Products,4,4,86267.985,47.25,3.25,100.0
+France,45-59,6-10 Years,Zero Balance,Three or More Products,4,4,0.0,49.5,3.25,100.0
+Germany,45-59,6-10 Years,High Balance,Three or More Products,4,4,147119.505,47.5,3.25,100.0
+Germany,45-59,6-10 Years,Low Balance,Three or More Products,4,4,113067.0975,52.5,3.25,100.0
+Spain,30-44,0-2 Years,Zero Balance,Three or More Products,4,4,0.0,35.5,3.0,100.0
+Spain,45-59,3-5 Years,Low Balance,Two Products,4,4,96060.7525,51.75,2.0,100.0
+France,60+,0-2 Years,Zero Balance,Single Product,4,3,0.0,65.75,1.0,75.0
+Spain,45-59,0-2 Years,Medium Balance,Single Product,4,3,132706.8075,52.75,1.0,75.0
+Spain,45-59,6-10 Years,High Balance,Two Products,4,3,156287.32,49.5,2.0,75.0
+France,45-59,0-2 Years,Low Balance,Two Products,4,2,94798.6225,51.25,2.0,50.0
+Germany,45-59,0-2 Years,High Balance,Two Products,4,2,155021.4375,47.25,2.0,50.0
+Spain,45-59,0-2 Years,Low Balance,Two Products,4,2,93887.1425,49.75,2.0,50.0
+Spain,45-59,3-5 Years,High Balance,Single Product,4,2,159638.16749999998,47.25,1.0,50.0
+France,45-59,3-5 Years,High Balance,Two Products,4,1,154495.615,49.5,2.0,25.0
+Spain,Under 30,0-2 Years,Medium Balance,Single Product,4,1,131978.345,27.5,1.0,25.0
+France,Under 30,0-2 Years,High Balance,Two Products,4,0,162838.35749999998,21.75,2.0,0.0
+Germany,Under 30,0-2 Years,High Balance,Single Product,4,0,160731.9025,27.0,1.0,0.0
+Spain,30-44,0-2 Years,Medium Balance,Two Products,4,0,132136.49,37.5,2.0,0.0
+Spain,Under 30,3-5 Years,High Balance,Two Products,4,0,168149.1525,26.25,2.0,0.0
+Spain,Under 30,6-10 Years,High Balance,Two Products,4,0,152922.325,26.5,2.0,0.0
+Spain,Under 30,6-10 Years,Medium Balance,Single Product,4,0,131679.73,26.25,1.0,0.0
+France,30-44,6-10 Years,Medium Balance,Three or More Products,3,3,131120.04333333333,36.666666666666664,3.6666666666666665,100.0
+France,45-59,0-2 Years,High Balance,Two Products,3,3,163611.80666666667,47.333333333333336,2.0,100.0
+France,45-59,0-2 Years,Zero Balance,Three or More Products,3,3,0.0,48.666666666666664,3.3333333333333335,100.0
+France,45-59,3-5 Years,Low Balance,Three or More Products,3,3,105424.98333333334,51.666666666666664,3.0,100.0
+France,45-59,3-5 Years,Zero Balance,Three or More Products,3,3,0.0,51.333333333333336,3.0,100.0
+France,60+,0-2 Years,Medium Balance,Single Product,3,3,130766.27999999998,62.666666666666664,1.0,100.0
+France,60+,3-5 Years,Low Balance,Single Product,3,3,84610.03333333334,60.666666666666664,1.0,100.0
+Germany,60+,6-10 Years,High Balance,Single Product,3,3,145935.36,61.333333333333336,1.0,100.0
+Spain,45-59,0-2 Years,Low Balance,Single Product,3,3,80880.73,48.0,1.0,100.0
+Spain,45-59,0-2 Years,Zero Balance,Three or More Products,3,3,0.0,54.333333333333336,3.3333333333333335,100.0
+Spain,45-59,3-5 Years,Low Balance,Three or More Products,3,3,86543.34999999999,47.333333333333336,3.3333333333333335,100.0
+Spain,45-59,3-5 Years,Zero Balance,Three or More Products,3,3,0.0,53.666666666666664,3.0,100.0
+Spain,60+,6-10 Years,Zero Balance,Two Products,3,3,0.0,64.0,2.0,100.0
+France,60+,0-2 Years,Zero Balance,Two Products,3,2,0.0,65.0,2.0,66.66666666666666
+Germany,60+,3-5 Years,Medium Balance,Single Product,3,2,126012.76666666666,66.33333333333333,1.0,66.66666666666666
+Germany,60+,6-10 Years,Medium Balance,Single Product,3,2,131239.6466666667,66.66666666666667,1.0,66.66666666666666
+Spain,30-44,6-10 Years,Zero Balance,Three or More Products,3,2,0.0,41.666666666666664,3.0,66.66666666666666
+Spain,Under 30,3-5 Years,Medium Balance,Two Products,3,2,127708.60666666667,27.666666666666668,2.0,66.66666666666666
+France,45-59,3-5 Years,Medium Balance,Two Products,3,1,124177.49333333333,48.0,2.0,33.33333333333333
+France,60+,6-10 Years,Zero Balance,Two Products,3,1,0.0,69.66666666666667,2.0,33.33333333333333
+France,Under 30,3-5 Years,Zero Balance,Three or More Products,3,1,0.0,28.0,3.0,33.33333333333333
+Germany,45-59,0-2 Years,Medium Balance,Two Products,3,1,128744.16333333333,50.333333333333336,2.0,33.33333333333333
+Spain,60+,6-10 Years,Low Balance,Single Product,3,1,95870.56,68.33333333333333,1.0,33.33333333333333
+Spain,Under 30,0-2 Years,Low Balance,Single Product,3,1,76464.7,27.0,1.0,33.33333333333333
+Spain,Under 30,0-2 Years,Zero Balance,Single Product,3,1,0.0,25.333333333333332,1.0,33.33333333333333
+France,Under 30,3-5 Years,Medium Balance,Two Products,3,0,132990.70333333334,27.333333333333332,2.0,0.0
+Germany,Under 30,0-2 Years,Medium Balance,Two Products,3,0,124639.96333333333,24.666666666666668,2.0,0.0
+Spain,45-59,3-5 Years,Medium Balance,Single Product,3,0,129148.99333333333,49.0,1.0,0.0
+Spain,Under 30,0-2 Years,High Balance,Two Products,3,0,157706.15333333335,27.0,2.0,0.0
+Spain,Under 30,3-5 Years,Zero Balance,Single Product,3,0,0.0,25.333333333333332,1.0,0.0
+France,60+,0-2 Years,High Balance,Single Product,2,2,167945.47,64.0,1.0,100.0
+France,60+,0-2 Years,Low Balance,Single Product,2,2,110415.64,60.5,1.0,100.0
+France,60+,3-5 Years,Low Balance,Two Products,2,2,97977.16,65.0,2.0,100.0
+Germany,30-44,0-2 Years,High Balance,Three or More Products,2,2,156402.90000000002,40.0,3.0,100.0
+Germany,30-44,3-5 Years,Medium Balance,Three or More Products,2,2,134052.89500000002,40.0,3.0,100.0
+Germany,30-44,6-10 Years,Medium Balance,Three or More Products,2,2,131490.84,39.0,3.5,100.0
+Germany,45-59,0-2 Years,Medium Balance,Three or More Products,2,2,127201.15,53.5,4.0,100.0
+Germany,60+,3-5 Years,High Balance,Single Product,2,2,148755.275,67.5,1.0,100.0
+Germany,60+,6-10 Years,Low Balance,Two Products,2,2,117138.755,61.0,2.0,100.0
+Germany,60+,6-10 Years,Medium Balance,Three or More Products,2,2,130278.405,62.5,3.0,100.0
+Spain,30-44,3-5 Years,Medium Balance,Three or More Products,2,2,131488.575,39.5,3.0,100.0
+Spain,45-59,3-5 Years,High Balance,Two Products,2,2,176860.43,52.5,2.0,100.0
+Spain,45-59,6-10 Years,Low Balance,Three or More Products,2,2,84102.665,55.5,3.5,100.0
+Spain,60+,0-2 Years,Zero Balance,Single Product,2,2,0.0,60.5,1.0,100.0
+Spain,60+,3-5 Years,Medium Balance,Two Products,2,2,130467.07,61.5,2.0,100.0
+Spain,60+,3-5 Years,Zero Balance,Single Product,2,2,0.0,65.0,1.0,100.0
+Spain,Under 30,6-10 Years,High Balance,Three or More Products,2,2,156033.845,28.0,3.0,100.0
+France,60+,6-10 Years,Zero Balance,Single Product,2,1,0.0,63.0,1.0,50.0
+Germany,30-44,6-10 Years,Low Balance,Three or More Products,2,1,111309.93,38.5,3.0,50.0
+Germany,Under 30,3-5 Years,Low Balance,Three or More Products,2,1,108380.29000000001,29.0,3.5,50.0
+Spain,45-59,6-10 Years,Medium Balance,Two Products,2,1,127254.17,46.5,2.0,50.0
+Spain,Under 30,6-10 Years,Zero Balance,Three or More Products,2,1,0.0,24.5,3.0,50.0
+France,Under 30,0-2 Years,Low Balance,Two Products,2,0,89468.71,26.0,2.0,0.0
+France,Under 30,0-2 Years,Medium Balance,Two Products,2,0,131248.88,29.0,2.0,0.0
+France,30-44,0-2 Years,High Balance,Three or More Products,1,1,158584.82,30.0,3.0,100.0
+France,30-44,0-2 Years,Low Balance,Three or More Products,1,1,100749.5,36.0,3.0,100.0
+France,30-44,0-2 Years,Medium Balance,Three or More Products,1,1,128548.49,35.0,4.0,100.0
+France,45-59,0-2 Years,High Balance,Three or More Products,1,1,164649.52,45.0,3.0,100.0
+France,45-59,6-10 Years,High Balance,Three or More Products,1,1,144237.91,51.0,4.0,100.0
+France,45-59,6-10 Years,Medium Balance,Three or More Products,1,1,134950.19,46.0,3.0,100.0
+France,60+,0-2 Years,High Balance,Two Products,1,1,165350.61,63.0,2.0,100.0
+France,60+,0-2 Years,Low Balance,Three or More Products,1,1,43772.66,62.0,3.0,100.0
+France,60+,0-2 Years,Low Balance,Two Products,1,1,110314.21,63.0,2.0,100.0
+France,60+,3-5 Years,High Balance,Single Product,1,1,140549.4,62.0,1.0,100.0
+France,60+,3-5 Years,Low Balance,Three or More Products,1,1,62055.17,61.0,3.0,100.0
+France,60+,6-10 Years,Low Balance,Three or More Products,1,1,106804.26,65.0,3.0,100.0
+France,60+,6-10 Years,Medium Balance,Three or More Products,1,1,123681.32,62.0,3.0,100.0
+France,Under 30,3-5 Years,Low Balance,Three or More Products,1,1,46388.16,29.0,3.0,100.0
+France,Under 30,6-10 Years,Zero Balance,Three or More Products,1,1,0.0,24.0,3.0,100.0
+Germany,30-44,3-5 Years,High Balance,Three or More Products,1,1,168286.81,40.0,3.0,100.0
+Germany,45-59,0-2 Years,High Balance,Three or More Products,1,1,162082.31,57.0,4.0,100.0
+Germany,45-59,3-5 Years,Medium Balance,Three or More Products,1,1,125889.3,54.0,3.0,100.0
+Germany,60+,0-2 Years,High Balance,Single Product,1,1,169362.43,64.0,1.0,100.0
+Germany,60+,0-2 Years,Low Balance,Three or More Products,1,1,96947.58,70.0,3.0,100.0
+Germany,60+,3-5 Years,High Balance,Three or More Products,1,1,153469.26,64.0,3.0,100.0
+Germany,60+,3-5 Years,Low Balance,Three or More Products,1,1,86038.21,69.0,3.0,100.0
+Germany,60+,3-5 Years,Low Balance,Two Products,1,1,71816.74,70.0,2.0,100.0
+Germany,60+,3-5 Years,Medium Balance,Three or More Products,1,1,120916.52,63.0,3.0,100.0
+Germany,60+,6-10 Years,Medium Balance,Two Products,1,1,128751.65,64.0,2.0,100.0
+Germany,Under 30,3-5 Years,Medium Balance,Three or More Products,1,1,132405.52,28.0,3.0,100.0
+Germany,Under 30,6-10 Years,Medium Balance,Three or More Products,1,1,137059.05,29.0,3.0,100.0
+Spain,30-44,3-5 Years,High Balance,Three or More Products,1,1,142880.28,41.0,3.0,100.0
+Spain,30-44,6-10 Years,Low Balance,Three or More Products,1,1,77526.66,44.0,3.0,100.0
+Spain,30-44,6-10 Years,Medium Balance,Three or More Products,1,1,121345.88,30.0,4.0,100.0
+Spain,45-59,0-2 Years,High Balance,Three or More Products,1,1,140292.58,50.0,3.0,100.0
+Spain,45-59,0-2 Years,Medium Balance,Two Products,1,1,127660.46,46.0,2.0,100.0
+Spain,45-59,3-5 Years,High Balance,Three or More Products,1,1,174088.3,45.0,4.0,100.0
+Spain,45-59,3-5 Years,Medium Balance,Three or More Products,1,1,130554.51,50.0,3.0,100.0
+Spain,45-59,6-10 Years,High Balance,Three or More Products,1,1,143542.36,52.0,3.0,100.0
+Spain,45-59,6-10 Years,Medium Balance,Three or More Products,1,1,131355.3,45.0,3.0,100.0
+Spain,45-59,6-10 Years,Zero Balance,Three or More Products,1,1,0.0,55.0,3.0,100.0
+Spain,60+,0-2 Years,Low Balance,Single Product,1,1,82182.1,61.0,1.0,100.0
+Spain,60+,0-2 Years,Medium Balance,Two Products,1,1,131629.17,63.0,2.0,100.0
+Spain,60+,3-5 Years,Low Balance,Single Product,1,1,114552.6,63.0,1.0,100.0
+Spain,60+,3-5 Years,Low Balance,Three or More Products,1,1,96134.11,63.0,3.0,100.0
+Spain,60+,3-5 Years,Low Balance,Two Products,1,1,45752.78,64.0,2.0,100.0
+Spain,60+,6-10 Years,High Balance,Single Product,1,1,168920.75,60.0,1.0,100.0
+Spain,60+,6-10 Years,Medium Balance,Single Product,1,1,125919.35,67.0,1.0,100.0
+Spain,60+,6-10 Years,Zero Balance,Single Product,1,1,0.0,62.0,1.0,100.0
+Spain,Under 30,3-5 Years,High Balance,Three or More Products,1,1,147386.72,25.0,3.0,100.0
+Spain,Under 30,3-5 Years,Low Balance,Three or More Products,1,1,86605.5,25.0,3.0,100.0
+Spain,Under 30,3-5 Years,Medium Balance,Single Product,1,1,121681.82,22.0,1.0,100.0
+France,45-59,0-2 Years,Medium Balance,Two Products,1,0,125724.95,47.0,2.0,0.0
+France,60+,3-5 Years,Zero Balance,Two Products,1,0,0.0,62.0,2.0,0.0
+France,Under 30,6-10 Years,Medium Balance,Two Products,1,0,139224.92,23.0,2.0,0.0
+Germany,30-44,0-2 Years,Medium Balance,Three or More Products,1,0,127320.36,31.0,3.0,0.0
+Germany,60+,3-5 Years,High Balance,Two Products,1,0,149525.34,61.0,2.0,0.0
+Germany,Under 30,3-5 Years,Medium Balance,Two Products,1,0,130806.42,24.0,2.0,0.0
+Spain,60+,0-2 Years,Zero Balance,Two Products,1,0,0.0,70.0,2.0,0.0
+Spain,60+,3-5 Years,Zero Balance,Two Products,1,0,0.0,74.0,2.0,0.0
+Spain,Under 30,0-2 Years,Low Balance,Two Products,1,0,117412.19,29.0,2.0,0.0

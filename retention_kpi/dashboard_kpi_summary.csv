@@ -1,0 +1,11 @@
+﻿kpi_name,kpi_value,unit,description
+Total Customers,10000.0,Customers,Total number of unique customers.
+Retained Customers,7963.0,Customers,Number of customers who have not exited.
+Exited Customers,2037.0,Customers,Number of customers who have exited.
+Overall Churn Rate,20.37,Percentage,Percentage of customers who exited.
+Overall Retention Rate,79.63,Percentage,Percentage of customers retained.
+Engagement Retention Ratio,1.172,Ratio,Active retention rate divided by inactive retention rate.
+Product Depth Index,1.5302,Average products,Average number of products per customer.
+High-Balance Disengagement Rate,49.1228,Percentage,Inactive customers as a percentage of all high-balance customers.
+Credit Card Stickiness Score,0.6307,Percentage points,Cardholder retention rate minus non-cardholder retention rate.
+Average Relationship Strength Index,60.738,Score out of 100,Average proposed relationship strength score.

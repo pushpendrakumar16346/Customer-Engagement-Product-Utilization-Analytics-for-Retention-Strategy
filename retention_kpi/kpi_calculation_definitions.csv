@@ -1,0 +1,8 @@
+﻿kpi,formula,unit,interpretation
+Overall Churn Rate,Exited Customers / Total Customers * 100,Percentage,Percentage of customers who exited the bank.
+Overall Retention Rate,Retained Customers / Total Customers * 100,Percentage,Percentage of customers who remained with the bank.
+Engagement Retention Ratio,Active Retention Rate / Inactive Retention Rate,Ratio,Relative retention performance of active versus inactive customers.
+Product Depth Index,Total Products Held / Total Customers,Average products per customer,Average number of products held by each customer.
+High-Balance Disengagement Rate,Inactive High-Balance Customers / All High-Balance Customers * 100,Percentage,Percentage of high-balance customers classified as inactive.
+Credit Card Stickiness Score,Cardholder Retention Rate - Non-Cardholder Retention Rate,Percentage points,Retention difference between cardholders and non-cardholders.
+Relationship Strength Index,60 * Activity + 40 * Product Adoption,Score from 0 to 100,Proposed customer relationship strength measure.

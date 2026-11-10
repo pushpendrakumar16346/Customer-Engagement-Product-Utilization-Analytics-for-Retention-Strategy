@@ -1,0 +1,4 @@
+Column,Unique Values,Invalid Binary Values,Missing Values
+HasCrCard,"[1, 0]",0,0
+IsActiveMember,"[1, 0]",0,0
+Exited,"[1, 0]",0,0

@@ -1,0 +1,6 @@
+premium_risk_segment,customers,average_balance,inactive_customers,exited_customers,average_products,churn_rate,retention_priority_rank
+Critical Attention - Inactive Single Product,338,157691.0799704142,338,0,1.0,0.0,1
+High Attention - Inactive Multi Product,206,157445.98500000002,206,0,2.0,0.0,2
+Monitor - Active High Balance,685,157246.72001459854,0,0,1.3562043795620438,0.0,3
+Historical Churn - Exited High Balance,367,159984.6541961853,240,367,1.452316076294278,100.0,4
+Standard Segment,8404,61006.31409328891,4065,1670,1.557591623036649,19.871489766777724,5

@@ -1,0 +1,4 @@
+Column,Data Type,Unique Values,Missing Values
+Surname,object,2932,0
+Geography,object,3,0
+Gender,object,2,0

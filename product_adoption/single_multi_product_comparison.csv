@@ -1,0 +1,3 @@
+product_relationship,customer_count,churned_customers,retained_customers,average_products,active_customers,customer_share_pct,churn_rate_pct,retention_rate_pct,active_customer_pct
+Multi Product,4916,628,4288,2.078519121236778,2588,49.16,12.774613506916191,87.2253864930838,52.64442636289667
+Single Product,5084,1409,3675,1.0,2563,50.839999999999996,27.714398111723053,72.28560188827694,50.413060582218726

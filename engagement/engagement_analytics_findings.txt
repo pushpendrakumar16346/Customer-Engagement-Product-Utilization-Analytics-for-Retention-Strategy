@@ -1,0 +1,23 @@
+ENGAGEMENT ANALYTICS FINDINGS
+========================================
+Total customers analyzed: 10000
+Active customers: 5151
+Inactive customers: 4849
+Active customer churn rate: 14.27%
+Inactive customer churn rate: 26.85%
+Active customer retention rate: 85.73%
+Inactive customer retention rate: 73.15%
+Engagement retention difference: 12.58 percentage points
+Engagement Retention Ratio: 1.172
+
+Active customers have a lower observed churn rate than inactive customers.
+Active customers have a retention advantage of 12.58 percentage points.
+Inactive high-balance customers: 784
+Geography with highest observed churn: Germany (32.44%)
+Age group with highest observed churn: 45-59 (49.45%)
+Tenure group with highest observed churn: 0-2 Years (21.15%)
+
+INTERPRETATION LIMITATION
+IsActiveMember is an activity-status proxy, not a direct measure of
+login frequency, transaction activity or product usage.
+These are observed associations, not proof of causation.

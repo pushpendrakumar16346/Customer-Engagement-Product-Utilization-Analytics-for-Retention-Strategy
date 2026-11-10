@@ -1,0 +1,10 @@
+Analysis Area,Observation
+Overall Churn,Overall observed churn rate is 20.37%.
+Age and Churn,45-59 has the highest observed churn rate among age groups at 49.45%.
+Geography and Churn,Germany has the highest observed geography-level churn rate at 32.44%.
+Activity and Churn,"Active customer churn rate is 14.27%, while inactive customer churn rate is 26.85%."
+Product Adoption and Churn,Customers with 4 products have the highest observed product-count-level churn rate at 100.00%.
+Correlation Analysis,The strongest positive numerical correlation with Exited among the selected features is age (0.285).
+Correlation Analysis,The strongest negative numerical correlation with Exited among the selected features is relationship_strength_index (-0.205).
+High-Balance Inactive Customers,High-balance inactive customers have an observed churn rate of 30.61%.
+Relationship Strength,Average RSI is 64.04 for retained customers and 47.82 for exited customers.

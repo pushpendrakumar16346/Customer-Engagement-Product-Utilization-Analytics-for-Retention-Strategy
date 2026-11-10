@@ -1,0 +1,5 @@
+Customer Segment,Customer Count,Churn Rate (%)
+All Customers,10000,20.369999999999997
+High-Balance Customers,1596,22.99498746867168
+Active High-Balance Customers,812,15.64039408866995
+Inactive High-Balance Customers,784,30.612244897959183

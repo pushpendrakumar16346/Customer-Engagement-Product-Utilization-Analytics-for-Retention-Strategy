@@ -1,0 +1,3 @@
+﻿balance_group,total_customers,retained_customers,exited_customers,average_balance,median_balance,churn_rate_pct,retention_rate_pct
+High Balance,1596,1229,367,157996.13360902257,153600.66999999998,22.99498746867168,77.00501253132832
+Lower Balance,8404,6734,1670,61006.31409328891,79987.89,19.871489766777724,80.12851023322227

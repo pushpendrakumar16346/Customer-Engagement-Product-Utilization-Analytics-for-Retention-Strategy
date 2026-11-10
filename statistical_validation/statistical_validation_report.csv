@@ -1,0 +1,9 @@
+﻿validation_check,status,details
+Customer count reconciliation,PASSED,All customer records have unique customer IDs.
+Churn and retention reconciliation,PASSED,Retained and exited customer counts equal total customers.
+Activity segment reconciliation,PASSED,Active and inactive customer counts reconcile.
+Product group reconciliation,PASSED,Product-count groups reconcile.
+Balance group reconciliation,PASSED,Balance groups reconcile.
+RSI tier reconciliation,PASSED,Relationship strength tiers contain all customers.
+RSI score range,PASSED,All RSI values are between 0 and 100.
+Confidence interval validity,PASSED,Wilson lower bounds do not exceed upper bounds.

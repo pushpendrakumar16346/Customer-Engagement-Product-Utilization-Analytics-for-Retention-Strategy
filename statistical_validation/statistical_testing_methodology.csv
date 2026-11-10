@@ -1,0 +1,6 @@
+﻿analysis,method,null_hypothesis,alternative_hypothesis,significance_level
+Activity versus churn,Chi-square test of independence,Activity status and churn are independent.,Activity status and churn are associated.,0.05
+Product count versus churn,Chi-square test of independence,Product count and churn are independent.,Product count and churn are associated.,0.05
+Balance group versus churn,Chi-square test of independence,Balance group and churn are independent.,Balance group and churn are associated.,0.05
+Balance distribution comparison,Mann-Whitney U test,Balance distributions are equal between churn groups.,Balance distributions differ between churn groups.,0.05
+Relationship tier versus churn,Chi-square test of independence,Relationship tier and churn are independent.,Relationship tier and churn are associated.,0.05
